@@ -1,0 +1,1 @@
+recipes.removeByRegex("mw:.+recipe");
