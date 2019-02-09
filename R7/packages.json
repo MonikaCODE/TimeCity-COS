@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "Cresent Ville Mobius",
+      "name" : "Cresent Ville Mobius 1.12.2",
+      "version" : "2018-06-07-19-32-40",
+      "location" : "cresent-ville-mobius-1.12.2.json",
+      "priority" : 10
+    }
+  ]
+}

@@ -1,0 +1,2326 @@
+[
+	{
+		"block": "minecraft:sea_lantern:0",
+		"distrib": "0,0.0;39,0.0;40,1.5625E-5;41,2.34375E-5;42,0.0;43,0.0;44,1.5625E-5;45,3.125E-5;46,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:prismarine_crystals:0",
+				"fortunes": {
+					"0": 2.4947,
+					"1": 2.9947,
+					"2": 3.4919,
+					"3": 3.872
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:leaves2:1",
+		"distrib": "0,0.0;69,0.0;70,2.4609375E-4;71,6.5625E-4;72,7.304688E-4;73,8.359375E-4;74,0.0018476562;75,0.0031132812;76,0.003734375;77,0.0045429687;78,0.0047617187;79,0.0036328125;80,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:apple:0",
+				"fortunes": {
+					"0": 0.0048,
+					"1": 0.0059,
+					"2": 0.0069,
+					"3": 0.0088
+				}
+			},
+			{
+				"itemStack": "minecraft:sapling:5",
+				"fortunes": {
+					"0": 0.0489,
+					"1": 0.0594,
+					"2": 0.0879,
+					"3": 0.0955
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:logs.3:3",
+		"distrib": "0,0.0;69,0.0;70,3.90625E-6;73,3.90625E-6;74,1.171875E-5;75,7.8125E-6;76,7.8125E-6;77,2.34375E-5;78,3.515625E-5;79,7.8125E-6;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:beehives:5",
+		"distrib": "0,0.0;71,0.0;72,3.90625E-6;73,1.171875E-5;74,0.0;77,0.0;78,3.90625E-6;79,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "forestry:bee_princess_ge:0:{MaxH:50,Health:50,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesValiant\",UID0:\"forestry.speciesValiant\",Slot:0b},{UID1:\"forestry.speedSlow\",UID0:\"forestry.speedSlow\",Slot:1b},{UID1:\"forestry.lifespanLong\",UID0:\"forestry.lifespanLong\",Slot:2b},{UID1:\"forestry.fertilityNormal\",UID0:\"forestry.fertilityNormal\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlowest\",UID0:\"forestry.floweringSlowest\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.0215,
+					"1": 0.019,
+					"2": 0.0197,
+					"3": 0.0232
+				}
+			},
+			{
+				"itemStack": "forestry:bee_drone_ge:0:{MaxH:50,Health:50,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesValiant\",UID0:\"forestry.speciesValiant\",Slot:0b},{UID1:\"forestry.speedSlow\",UID0:\"forestry.speedSlow\",Slot:1b},{UID1:\"forestry.lifespanLong\",UID0:\"forestry.lifespanLong\",Slot:2b},{UID1:\"forestry.fertilityNormal\",UID0:\"forestry.fertilityNormal\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlowest\",UID0:\"forestry.floweringSlowest\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.0209,
+					"1": 0.0141,
+					"2": 0.0152,
+					"3": 0.0158
+				}
+			},
+			{
+				"itemStack": "forestry:bee_princess_ge:0:{MaxH:30,Health:30,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesWintry\",UID0:\"forestry.speciesWintry\",Slot:0b},{UID1:\"forestry.speedSlower\",UID0:\"forestry.speedSlower\",Slot:1b},{UID1:\"forestry.lifespanShort\",UID0:\"forestry.lifespanShort\",Slot:2b},{UID1:\"forestry.fertilityMaximum\",UID0:\"forestry.fertilityMaximum\",Slot:3b},{UID1:\"forestry.toleranceUp1\",UID0:\"forestry.toleranceUp1\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceBoth1\",UID0:\"forestry.toleranceBoth1\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersSnow\",UID0:\"forestry.flowersSnow\",Slot:9b},{UID1:\"forestry.floweringSlowest\",UID0:\"forestry.floweringSlowest\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectGlacial\",UID0:\"forestry.effectGlacial\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.4798,
+					"1": 0.4889,
+					"2": 0.4901,
+					"3": 0.4921
+				}
+			},
+			{
+				"itemStack": "forestry:bee_combs:4",
+				"fortunes": {
+					"0": 0.8157,
+					"1": 0.8089,
+					"2": 0.802,
+					"3": 0.7986
+				}
+			},
+			{
+				"itemStack": "forestry:bee_princess_ge:0:{MaxH:30,NA:0b,Health:30,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesWintry\",UID0:\"forestry.speciesWintry\",Slot:0b},{UID1:\"forestry.speedSlower\",UID0:\"forestry.speedSlower\",Slot:1b},{UID1:\"forestry.lifespanShort\",UID0:\"forestry.lifespanShort\",Slot:2b},{UID1:\"forestry.fertilityMaximum\",UID0:\"forestry.fertilityMaximum\",Slot:3b},{UID1:\"forestry.toleranceUp1\",UID0:\"forestry.toleranceUp1\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceBoth1\",UID0:\"forestry.toleranceBoth1\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersSnow\",UID0:\"forestry.flowersSnow\",Slot:9b},{UID1:\"forestry.floweringSlowest\",UID0:\"forestry.floweringSlowest\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectGlacial\",UID0:\"forestry.effectGlacial\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.4987,
+					"1": 0.4921,
+					"2": 0.4902,
+					"3": 0.4847
+				}
+			},
+			{
+				"itemStack": "forestry:bee_drone_ge:0:{MaxH:30,Health:30,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesWintry\",UID0:\"forestry.speciesWintry\",Slot:0b},{UID1:\"forestry.speedSlower\",UID0:\"forestry.speedSlower\",Slot:1b},{UID1:\"forestry.lifespanShort\",UID0:\"forestry.lifespanShort\",Slot:2b},{UID1:\"forestry.fertilityMaximum\",UID0:\"forestry.fertilityMaximum\",Slot:3b},{UID1:\"forestry.toleranceUp1\",UID0:\"forestry.toleranceUp1\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceBoth1\",UID0:\"forestry.toleranceBoth1\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersSnow\",UID0:\"forestry.flowersSnow\",Slot:9b},{UID1:\"forestry.floweringSlowest\",UID0:\"forestry.floweringSlowest\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectGlacial\",UID0:\"forestry.effectGlacial\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.7891,
+					"1": 0.7972,
+					"2": 0.7883,
+					"3": 0.779
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:lapis_ore:0",
+		"distrib": "0,0.0;1,3.125E-5;2,6.25E-5;3,1.484375E-4;4,2.34375E-4;5,3.046875E-4;6,4.53125E-4;7,6.640625E-4;8,6.25E-4;9,6.9140625E-4;10,8.0078124E-4;11,9.5703127E-4;12,7.8125E-4;13,9.765625E-4;14,7.65625E-4;15,8.0078124E-4;16,8.125E-4;17,6.9921877E-4;18,6.9140625E-4;19,6.1328127E-4;20,5.585938E-4;21,5.351562E-4;22,4.0234375E-4;23,3.671875E-4;24,3.0078125E-4;25,3.046875E-4;26,1.9140624E-4;27,1.5234375E-4;28,9.375E-5;29,2.34375E-5;30,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:dye:4",
+				"fortunes": {
+					"0": 5.9895,
+					"1": 8.0356,
+					"2": 10.7786,
+					"3": 13.0278
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:snow_layer:0",
+		"distrib": "0,0.0;58,0.0;59,5.078125E-5;60,3.90625E-5;61,5.46875E-5;62,4.6875E-5;63,0.0057460936;64,4.6484376E-4;65,1.09375E-4;66,3.515625E-5;67,6.25E-5;68,2.734375E-5;69,6.25E-5;70,4.6875E-5;71,4.296875E-5;72,4.296875E-5;73,5.078125E-5;74,1.0546875E-4;75,9.375E-5;76,5.078125E-5;77,2.734375E-5;78,3.90625E-5;79,9.765625E-5;80,0.0;90,0.0;91,1.171875E-5;92,1.2890625E-4;93,1.875E-4;94,3.6328126E-4;95,3.90625E-4;96,3.90625E-6;97,3.90625E-5;98,7.8125E-5;99,1.640625E-4;100,3.359375E-4;101,1.875E-4;102,1.25E-4;103,1.7578126E-4;104,1.484375E-4;105,2.421875E-4;106,4.7265625E-4;107,4.7265625E-4;108,4.8046876E-4;109,5.4296874E-4;110,5.898437E-4;111,4.53125E-4;112,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:snowball:0",
+				"fortunes": {
+					"0": 2.0,
+					"1": 2.0,
+					"2": 2.0,
+					"3": 2.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:beehives:0",
+		"distrib": "0,0.0;74,0.0;75,7.8125E-6;76,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "forestry:bee_combs:0",
+				"fortunes": {
+					"0": 0.8262,
+					"1": 0.8269,
+					"2": 0.8203,
+					"3": 0.8218
+				}
+			},
+			{
+				"itemStack": "forestry:bee_princess_ge:0:{MaxH:50,Health:50,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesValiant\",UID0:\"forestry.speciesValiant\",Slot:0b},{UID1:\"forestry.speedSlow\",UID0:\"forestry.speedSlow\",Slot:1b},{UID1:\"forestry.lifespanLong\",UID0:\"forestry.lifespanLong\",Slot:2b},{UID1:\"forestry.fertilityNormal\",UID0:\"forestry.fertilityNormal\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlowest\",UID0:\"forestry.floweringSlowest\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.0218,
+					"1": 0.0205,
+					"2": 0.0194,
+					"3": 0.0211
+				}
+			},
+			{
+				"itemStack": "forestry:bee_drone_ge:0:{MaxH:50,Health:50,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesValiant\",UID0:\"forestry.speciesValiant\",Slot:0b},{UID1:\"forestry.speedSlow\",UID0:\"forestry.speedSlow\",Slot:1b},{UID1:\"forestry.lifespanLong\",UID0:\"forestry.lifespanLong\",Slot:2b},{UID1:\"forestry.fertilityNormal\",UID0:\"forestry.fertilityNormal\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlowest\",UID0:\"forestry.floweringSlowest\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.0166,
+					"1": 0.02,
+					"2": 0.0178,
+					"3": 0.0167
+				}
+			},
+			{
+				"itemStack": "forestry:bee_princess_ge:0:{MaxH:20,NA:0b,Health:20,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesForest\",UID0:\"forestry.speciesForest\",Slot:0b},{UID1:\"forestry.speedSlowest\",UID0:\"forestry.speedSlowest\",Slot:1b},{UID1:\"forestry.lifespanShorter\",UID0:\"forestry.lifespanShorter\",Slot:2b},{UID1:\"forestry.fertilityHigh\",UID0:\"forestry.fertilityHigh\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlower\",UID0:\"forestry.floweringSlower\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.6448,
+					"1": 0.6484,
+					"2": 0.6458,
+					"3": 0.6493
+				}
+			},
+			{
+				"itemStack": "forestry:bee_princess_ge:0:{MaxH:20,Health:20,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesForest\",UID0:\"forestry.speciesForest\",Slot:0b},{UID1:\"forestry.speedSlowest\",UID0:\"forestry.speedSlowest\",Slot:1b},{UID1:\"forestry.lifespanShorter\",UID0:\"forestry.lifespanShorter\",Slot:2b},{UID1:\"forestry.fertilityHigh\",UID0:\"forestry.fertilityHigh\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlower\",UID0:\"forestry.floweringSlower\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.0603,
+					"1": 0.058,
+					"2": 0.0615,
+					"3": 0.0531
+				}
+			},
+			{
+				"itemStack": "forestry:bee_drone_ge:0:{MaxH:20,Health:20,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesForest\",UID0:\"forestry.speciesForest\",Slot:0b},{UID1:\"forestry.speedSlowest\",UID0:\"forestry.speedSlowest\",Slot:1b},{UID1:\"forestry.lifespanShorter\",UID0:\"forestry.lifespanShorter\",Slot:2b},{UID1:\"forestry.fertilityHigh\",UID0:\"forestry.fertilityHigh\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlower\",UID0:\"forestry.floweringSlower\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.766,
+					"1": 0.7486,
+					"2": 0.7586,
+					"3": 0.7574
+				}
+			},
+			{
+				"itemStack": "forestry:bee_princess_ge:0:{MaxH:20,Health:20,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesForest\",UID0:\"forestry.speciesForest\",Slot:0b},{UID1:\"forestry.speedSlowest\",UID0:\"forestry.speedSlowest\",Slot:1b},{UID1:\"forestry.lifespanShorter\",UID0:\"forestry.lifespanShorter\",Slot:2b},{UID1:\"forestry.fertilityHigh\",UID0:\"forestry.fertilityHigh\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlower\",UID0:\"forestry.floweringSlower\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.2731,
+					"1": 0.2731,
+					"2": 0.2733,
+					"3": 0.2765
+				}
+			},
+			{
+				"itemStack": "forestry:bee_drone_ge:0:{MaxH:20,Health:20,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesForest\",UID0:\"forestry.speciesForest\",Slot:0b},{UID1:\"forestry.speedSlowest\",UID0:\"forestry.speedSlowest\",Slot:1b},{UID1:\"forestry.lifespanShorter\",UID0:\"forestry.lifespanShorter\",Slot:2b},{UID1:\"forestry.fertilityHigh\",UID0:\"forestry.fertilityHigh\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlower\",UID0:\"forestry.floweringSlower\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.0457,
+					"1": 0.0497,
+					"2": 0.0467,
+					"3": 0.0496
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:log2:1",
+		"distrib": "0,0.0;62,0.0;63,2.34375E-5;64,1.5625E-5;65,4.6875E-5;66,6.25E-5;67,1.2109375E-4;68,1.9140624E-4;69,3.2421874E-4;70,6.757812E-4;71,9.296875E-4;72,0.0011367188;73,0.00128125;74,0.0013671875;75,0.0013867187;76,0.0012539063;77,0.0010820313;78,8.0078124E-4;79,4.453125E-4;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:beehives:1",
+		"distrib": "0,0.0;65,0.0;66,3.90625E-6;67,0.0;68,0.0;69,3.90625E-6;70,0.0;71,0.0;72,3.90625E-6;74,3.90625E-6;75,7.8125E-6;76,3.90625E-6;77,0.0;78,3.90625E-6;79,3.90625E-6;80,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "forestry:bee_princess_ge:0:{MaxH:20,Health:20,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesMeadows\",UID0:\"forestry.speciesMeadows\",Slot:0b},{UID1:\"forestry.speedSlowest\",UID0:\"forestry.speedSlowest\",Slot:1b},{UID1:\"forestry.lifespanShorter\",UID0:\"forestry.lifespanShorter\",Slot:2b},{UID1:\"forestry.fertilityNormal\",UID0:\"forestry.fertilityNormal\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlower\",UID0:\"forestry.floweringSlower\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.2956,
+					"1": 0.3002,
+					"2": 0.2998,
+					"3": 0.3
+				}
+			},
+			{
+				"itemStack": "forestry:bee_combs:0",
+				"fortunes": {
+					"0": 0.8045,
+					"1": 0.8008,
+					"2": 0.8001,
+					"3": 0.7995
+				}
+			},
+			{
+				"itemStack": "forestry:bee_princess_ge:0:{MaxH:50,Health:50,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesValiant\",UID0:\"forestry.speciesValiant\",Slot:0b},{UID1:\"forestry.speedSlow\",UID0:\"forestry.speedSlow\",Slot:1b},{UID1:\"forestry.lifespanLong\",UID0:\"forestry.lifespanLong\",Slot:2b},{UID1:\"forestry.fertilityNormal\",UID0:\"forestry.fertilityNormal\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlowest\",UID0:\"forestry.floweringSlowest\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.0192,
+					"1": 0.0206,
+					"2": 0.0239,
+					"3": 0.0209
+				}
+			},
+			{
+				"itemStack": "forestry:bee_drone_ge:0:{MaxH:50,Health:50,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesValiant\",UID0:\"forestry.speciesValiant\",Slot:0b},{UID1:\"forestry.speedSlow\",UID0:\"forestry.speedSlow\",Slot:1b},{UID1:\"forestry.lifespanLong\",UID0:\"forestry.lifespanLong\",Slot:2b},{UID1:\"forestry.fertilityNormal\",UID0:\"forestry.fertilityNormal\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolTrue\",UID0:\"forestry.boolTrue\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlowest\",UID0:\"forestry.floweringSlowest\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.0195,
+					"1": 0.0164,
+					"2": 0.0179,
+					"3": 0.017
+				}
+			},
+			{
+				"itemStack": "forestry:bee_princess_ge:0:{MaxH:20,NA:0b,Health:20,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesMeadows\",UID0:\"forestry.speciesMeadows\",Slot:0b},{UID1:\"forestry.speedSlowest\",UID0:\"forestry.speedSlowest\",Slot:1b},{UID1:\"forestry.lifespanShorter\",UID0:\"forestry.lifespanShorter\",Slot:2b},{UID1:\"forestry.fertilityNormal\",UID0:\"forestry.fertilityNormal\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlower\",UID0:\"forestry.floweringSlower\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.6852,
+					"1": 0.6792,
+					"2": 0.6763,
+					"3": 0.6791
+				}
+			},
+			{
+				"itemStack": "forestry:bee_drone_ge:0:{MaxH:20,Health:20,IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.speciesMeadows\",UID0:\"forestry.speciesMeadows\",Slot:0b},{UID1:\"forestry.speedSlowest\",UID0:\"forestry.speedSlowest\",Slot:1b},{UID1:\"forestry.lifespanShorter\",UID0:\"forestry.lifespanShorter\",Slot:2b},{UID1:\"forestry.fertilityNormal\",UID0:\"forestry.fertilityNormal\",Slot:3b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:6b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:7b},{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:9b},{UID1:\"forestry.floweringSlower\",UID0:\"forestry.floweringSlower\",Slot:10b},{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:11b},{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:12b}]}}",
+				"fortunes": {
+					"0": 0.7872,
+					"1": 0.7784,
+					"2": 0.7829,
+					"3": 0.784
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:resources:0",
+		"distrib": "0,0.0;51,0.0;52,5.078125E-5;53,2.6171876E-4;54,5.390625E-4;55,6.5625E-4;56,8.515625E-4;57,8.75E-4;58,8.6328125E-4;59,9.6875E-4;60,0.001046875;61,0.0011757812;62,0.0012109375;63,9.2578126E-4;64,2.109375E-4;65,2.1484375E-4;66,2.5E-4;67,4.296875E-4;68,6.445313E-4;69,6.015625E-4;70,4.4140624E-4;71,1.640625E-4;72,4.296875E-5;73,0.0;76,0.0;77,4.6875E-5;78,1.328125E-4;79,1.5234375E-4;80,3.90625E-5;81,7.421875E-5;82,1.328125E-4;83,1.640625E-4;84,1.328125E-4;85,7.03125E-5;86,0.0;94,0.0;95,3.515625E-5;96,5.859375E-5;97,7.8125E-5;98,5.46875E-5;99,1.171875E-5;100,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "forestry:apatite:0",
+				"fortunes": {
+					"0": 4.0214,
+					"1": 5.3612,
+					"2": 7.021,
+					"3": 8.7335
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:resources:2",
+		"distrib": "0,0.0;12,0.0;13,1.09375E-4;14,0.0012265625;15,0.0024492186;16,0.0026289062;17,0.002640625;18,0.002265625;19,0.0024453124;20,0.0023671875;21,0.0025234376;22,0.0023789064;23,0.0023125;24,0.0025546874;25,0.0024179688;26,0.0026835937;27,0.0021875;28,0.0024179688;29,0.0026210938;30,0.002609375;31,0.0023515625;32,0.0022578125;33,0.00225;34,0.002234375;35,0.00240625;36,0.0021875;37,0.0022695311;38,0.0021289063;39,0.0018632812;40,0.0018359375;41,0.0016953124;42,0.0018632812;43,0.0018554687;44,0.0020273437;45,0.0016445313;46,0.0017070313;47,0.0017109375;48,0.0016875;49,0.0016015625;50,0.0015039062;51,0.00146875;52,0.0014375;53,0.0015664062;54,0.0014882813;55,0.0014921875;56,0.0016601563;57,0.0015273438;58,0.0011835938;59,0.0014492187;60,9.375E-4;61,7.890625E-4;62,9.882812E-4;63,7.5390626E-4;64,5.6640623E-4;65,6.25E-4;66,5.703125E-4;67,4.8828125E-4;68,3.7109375E-4;69,2.9296876E-4;70,4.6875E-4;71,3.75E-4;72,1.9921875E-4;73,1.5625E-4;74,1.875E-4;75,1.6796876E-4;76,1.015625E-4;77,1.0546875E-4;78,8.203125E-5;79,5.46875E-5;80,8.59375E-5;81,1.09375E-4;82,7.03125E-5;83,3.90625E-5;84,8.984375E-5;85,8.59375E-5;86,1.40625E-4;87,7.421875E-5;88,6.25E-5;89,3.90625E-5;90,3.125E-5;91,7.8125E-6;92,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:resources:1",
+		"distrib": "0,0.0;28,0.0;29,1.015625E-4;30,0.0014882813;31,0.0024257812;32,0.0025273438;33,0.0024296874;34,0.0024140624;35,0.0025546874;36,0.002125;37,0.0022773438;38,0.0024414062;39,0.0022734376;40,0.0020976563;41,0.00246875;42,0.0024570313;43,0.0019609374;44,0.00221875;45,0.001921875;46,0.0020898439;47,0.001796875;48,0.001640625;49,0.0014492187;50,0.0017148438;51,0.0017070313;52,0.001609375;53,0.0016171875;54,0.0017148438;55,0.0014414062;56,0.0015664062;57,0.0013554688;58,0.0017382812;59,0.0013203125;60,0.0012421875;61,0.0011210938;62,0.0011445313;63,0.0010273438;64,5.1171874E-4;65,5.273438E-4;66,6.757812E-4;67,5.234375E-4;68,4.453125E-4;69,4.453125E-4;70,2.6953124E-4;71,1.9140624E-4;72,1.2890625E-4;73,2.4609375E-4;74,1.7578126E-4;75,2.1484375E-4;76,9.765625E-5;77,1.4453125E-4;78,1.0546875E-4;79,1.328125E-4;80,1.09375E-4;81,1.015625E-4;82,7.421875E-5;83,4.296875E-5;84,9.765625E-5;85,8.203125E-5;86,1.5625E-5;87,2.734375E-5;88,3.90625E-5;89,3.90625E-5;90,6.25E-5;91,1.09375E-4;92,4.296875E-5;93,7.03125E-5;94,1.5625E-5;95,7.8125E-6;96,3.125E-5;97,7.8125E-6;98,1.5625E-5;99,3.90625E-6;100,1.5625E-5;101,4.296875E-5;102,1.5625E-5;103,2.34375E-5;104,2.34375E-5;105,3.125E-5;106,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_coal:0",
+		"distrib": "0,0.0;10,0.0;11,7.8125E-6;12,3.90625E-6;13,0.0;15,0.0;16,3.90625E-6;17,7.8125E-6;18,3.90625E-6;19,7.8125E-6;20,0.0;21,3.90625E-6;22,0.0;23,7.8125E-6;24,3.90625E-6;25,3.90625E-6;26,0.0;27,3.90625E-6;28,7.8125E-6;29,3.90625E-6;30,0.0;31,3.90625E-6;32,0.0;34,0.0;35,3.90625E-6;38,3.90625E-6;39,0.0;40,7.8125E-6;41,0.0;43,0.0;44,3.90625E-6;45,3.90625E-6;46,0.0;48,0.0;49,3.90625E-6;50,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:3",
+				"fortunes": {
+					"0": 4.02,
+					"1": 4.022,
+					"2": 3.9993,
+					"3": 4.0228
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:gravel:0",
+		"distrib": "0,0.0;1,0.0028789062;2,0.005925781;3,0.007925781;4,0.009402344;5,0.0103828125;6,0.010398437;7,0.0111875;8,0.012574219;9,0.013199219;10,0.012828125;11,0.012972657;12,0.013742187;13,0.01403125;14,0.0130546875;15,0.0118125;16,0.011480468;17,0.012523438;18,0.012703125;19,0.011941406;20,0.010707031;21,0.010722656;22,0.011121093;23,0.011007813;24,0.011894532;25,0.012972657;26,0.013984375;27,0.014914063;28,0.014511718;29,0.015421875;30,0.04185156;31,0.041117188;32,0.022210937;33,0.021617187;34,0.022269532;35,0.030101562;36,0.03491406;37,0.03390625;38,0.03326172;39,0.02978125;40,0.024144532;41,0.021527344;42,0.02151953;43,0.020625;44,0.031179687;45,0.028492188;46,0.027128907;47,0.039347656;48,0.008433593;49,0.007921875;50,0.007082031;51,0.0069335937;52,0.006890625;53,0.007140625;54,0.0077304686;55,0.0076992186;56,0.007890625;57,0.007171875;58,0.0064960937;59,0.006578125;60,0.008503906;61,0.0075585935;62,0.0056445315;63,0.0047734375;64,0.0028398437;65,0.0025625;66,0.002484375;67,0.0023203124;68,0.00190625;69,0.0018515625;70,0.0013515624;71,8.75E-4;72,8.3203125E-4;73,8.59375E-4;74,8.0078124E-4;75,5.5078126E-4;76,3.359375E-4;77,5.1171874E-4;78,4.296875E-4;79,2.9296876E-4;80,1.796875E-4;81,1.2890625E-4;82,2.34375E-4;83,2.421875E-4;84,3.0859376E-4;85,4.375E-4;86,4.6875E-4;87,3.6328126E-4;88,2.2265625E-4;89,1.09375E-4;90,1.0546875E-4;91,1.0546875E-4;92,1.2890625E-4;93,1.796875E-4;94,4.1015624E-4;95,4.6875E-4;96,1.9140624E-4;97,1.171875E-4;98,5.46875E-5;99,6.25E-5;100,3.90625E-5;101,7.8125E-6;102,0.0;103,0.0;104,2.34375E-5;105,8.59375E-5;106,1.2109375E-4;107,1.2890625E-4;108,3.515625E-5;109,1.953125E-5;110,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:flint:0",
+				"fortunes": {
+					"0": 0.1009,
+					"1": 0.1464,
+					"2": 0.2396,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_vine_blue_end:0",
+		"distrib": "0,0.0;132,0.0;133,1.953125E-5;134,0.0;140,0.0;141,3.90625E-6;142,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:ice:0",
+		"distrib": "0,0.0;61,0.0;62,0.0026757813;63,0.0;",
+		"silktouch": true,
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pamavocado:0",
+		"distrib": "0,0.0;72,0.0;73,1.171875E-5;74,3.90625E-6;75,3.125E-5;76,0.0;77,4.6875E-5;78,2.734375E-5;79,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pamnutmeg:0",
+		"distrib": "0,0.0;68,0.0;69,3.125E-5;70,0.0;71,0.0;72,1.171875E-5;73,0.0;75,0.0;76,4.296875E-5;77,2.34375E-5;78,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:clay:0",
+		"distrib": "0,0.0;31,0.0;32,1.171875E-5;33,0.0;34,0.0;35,3.90625E-6;36,1.171875E-5;37,3.90625E-6;38,3.90625E-6;39,0.0;42,0.0;43,3.90625E-6;44,0.0;47,0.0;48,3.90625E-6;49,0.0;51,0.0;52,1.953125E-5;53,4.296875E-5;54,4.296875E-5;55,1.8359374E-4;56,1.796875E-4;57,5.078125E-5;58,9.375E-5;59,3.3984374E-4;60,5.9375E-4;61,0.0012265625;62,3.515625E-5;63,0.0;68,0.0;69,4.6875E-5;70,1.5625E-5;71,3.90625E-6;72,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:clay_ball:0",
+				"fortunes": {
+					"0": 4.0,
+					"1": 4.0,
+					"2": 4.0,
+					"3": 4.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_emerald:0",
+		"distrib": "0,0.0;7,0.0;8,3.90625E-6;10,3.90625E-6;11,0.0;13,0.0;14,3.90625E-6;15,0.0;16,0.0;17,3.90625E-6;18,1.171875E-5;19,7.8125E-6;20,0.0;21,0.0;22,3.90625E-6;23,1.171875E-5;24,0.0;25,7.8125E-6;26,3.90625E-6;27,0.0;28,7.8125E-6;29,0.0;30,3.90625E-6;33,3.90625E-6;34,0.0;37,0.0;38,7.8125E-6;39,0.0;42,0.0;43,3.90625E-6;44,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:4",
+				"fortunes": {
+					"0": 3.9972,
+					"1": 4.0018,
+					"2": 3.997,
+					"3": 4.0015
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:item_rice_seed:0",
+		"distrib": "0,0.0;62,0.0;63,2.5E-4;64,0.0;69,0.0;70,7.8125E-6;71,1.953125E-5;72,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_food:16",
+				"fortunes": {
+					"0": 1.4963,
+					"1": 1.4954,
+					"2": 1.495,
+					"3": 1.4973
+				}
+			},
+			{
+				"itemStack": "actuallyadditions:item_rice_seed:0",
+				"fortunes": {
+					"0": 1.7101,
+					"1": 2.2979,
+					"2": 2.8512,
+					"3": 3.4415
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:beehive:0",
+		"distrib": "0,0.0;65,0.0;66,3.90625E-6;67,0.0;69,0.0;70,3.90625E-6;71,3.90625E-6;72,0.0;73,1.5625E-5;74,1.953125E-5;75,1.171875E-5;76,7.8125E-6;77,3.90625E-6;78,1.171875E-5;79,3.90625E-6;80,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "harvestcraft:queenbeeitem:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:yellow_flower:0",
+		"distrib": "0,0.0;7,0.0;8,1.953125E-5;9,2.34375E-5;10,2.734375E-5;11,4.296875E-5;12,2.734375E-5;13,1.5625E-5;14,2.34375E-5;15,3.515625E-5;16,1.953125E-5;17,1.953125E-5;18,1.171875E-5;19,1.5625E-5;20,7.8125E-6;21,3.515625E-5;22,1.953125E-5;23,1.5625E-5;24,1.5625E-5;25,2.734375E-5;26,1.5625E-5;27,7.8125E-6;28,3.90625E-6;29,1.171875E-5;30,7.8125E-6;31,1.171875E-5;32,7.8125E-6;33,0.0;35,0.0;36,3.90625E-6;37,1.5625E-5;38,3.90625E-6;39,0.0;40,0.0;41,3.90625E-6;43,3.90625E-6;44,7.8125E-6;45,0.0;62,0.0;63,1.0546875E-4;64,1.5625E-5;65,1.5625E-5;66,1.171875E-5;67,1.953125E-5;68,1.171875E-5;69,5.46875E-5;70,3.125E-5;71,5.46875E-5;72,5.46875E-5;73,2.34375E-5;74,4.6875E-5;75,5.078125E-5;76,1.953125E-5;77,7.8125E-6;78,4.296875E-5;79,1.953125E-5;80,0.0;84,0.0;85,3.90625E-6;87,3.90625E-6;88,7.8125E-6;89,7.8125E-6;90,0.0;96,0.0;97,3.90625E-6;98,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:yellow_flower:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:pumpkin:0",
+		"distrib": "0,0.0;73,0.0;74,3.90625E-6;75,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "chisel:basalt2:7",
+		"distrib": "0,0.0;1,0.008179688;2,0.015289063;3,0.026128907;4,0.037820313;5,0.05091797;6,0.051867187;7,0.05446094;8,0.046015624;9,0.036335938;10,0.031609375;11,5.5078126E-4;12,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:rail:0",
+		"distrib": "0,0.0;9,0.0;10,1.953125E-5;11,0.0;13,0.0;14,1.0546875E-4;15,6.25E-5;16,7.8125E-5;17,2.65625E-4;18,1.71875E-4;19,3.0078125E-4;20,2.265625E-4;21,1.2890625E-4;22,3.8671875E-4;23,3.28125E-4;24,3.1640625E-4;25,4.0234375E-4;26,3.125E-4;27,1.25E-4;28,3.28125E-4;29,2.734375E-4;30,7.421875E-5;31,3.28125E-4;32,2.4609375E-4;33,4.6875E-5;34,0.0;35,2.109375E-4;36,3.125E-4;37,1.25E-4;38,1.796875E-4;39,3.671875E-4;40,9.765625E-5;41,1.953125E-4;42,0.0;43,1.953125E-5;44,7.03125E-5;45,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:rail:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:block_giant_chest:0",
+		"distrib": "0,0.0;42,0.0;43,3.90625E-6;44,3.90625E-6;45,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:block_giant_chest:0:{Data:{LootTable:\"actuallyadditions:lush_caves\"}}",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:aridgarden:0",
+		"distrib": "0,0.0;68,0.0;69,3.90625E-6;70,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:cactus:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			},
+			{
+				"itemStack": "harvestcraft:cactusfruititem:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:item_canola_seed:0",
+		"distrib": "0,0.0;62,0.0;63,1.953125E-5;64,7.8125E-6;65,3.90625E-6;66,0.0;67,3.90625E-6;68,0.0;70,0.0;71,7.8125E-6;72,1.5625E-5;73,1.5625E-5;74,1.171875E-5;75,7.8125E-6;76,3.90625E-6;77,1.171875E-5;78,3.90625E-6;79,3.90625E-6;80,0.0;88,0.0;89,3.90625E-6;90,0.0;92,0.0;93,3.90625E-6;94,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_canola_seed:0",
+				"fortunes": {
+					"0": 1.7237,
+					"1": 2.2926,
+					"2": 2.876,
+					"3": 3.459
+				}
+			},
+			{
+				"itemStack": "actuallyadditions:item_misc:13",
+				"fortunes": {
+					"0": 3.0156,
+					"1": 3.0126,
+					"2": 2.9959,
+					"3": 2.9963
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_diamond:0",
+		"distrib": "0,0.0;7,0.0;8,3.90625E-6;9,0.0;11,0.0;12,3.90625E-6;13,0.0;17,0.0;18,3.90625E-6;20,3.90625E-6;21,1.171875E-5;22,3.90625E-6;23,0.0;24,0.0;25,3.90625E-6;26,7.8125E-6;27,7.8125E-6;28,3.90625E-6;29,7.8125E-6;30,3.90625E-6;31,0.0;32,0.0;33,7.8125E-6;34,1.171875E-5;35,0.0;36,3.90625E-6;37,3.90625E-6;38,0.0;39,3.90625E-6;42,3.90625E-6;43,0.0;45,0.0;46,3.90625E-6;47,0.0;48,7.8125E-6;49,3.90625E-6;50,0.0;60,0.0;61,3.90625E-6;62,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:2",
+				"fortunes": {
+					"0": 4.0208,
+					"1": 3.9996,
+					"2": 4.0149,
+					"3": 4.0156
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_vine_purple_mid:0",
+		"distrib": "0,0.0;125,0.0;126,3.90625E-6;127,3.90625E-6;128,1.953125E-5;129,1.953125E-5;130,1.171875E-5;131,2.34375E-5;132,1.5625E-5;133,1.171875E-5;134,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:leaves.decorative.0:3",
+		"distrib": "0,0.0;65,0.0;66,3.125E-5;67,2.734375E-5;68,9.765625E-5;69,7.421875E-5;70,4.6875E-5;71,1.953125E-4;72,1.328125E-4;73,1.875E-4;74,1.7578126E-4;75,1.484375E-4;76,9.765625E-5;77,2.34375E-5;78,1.0546875E-4;79,6.25E-5;80,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "forestry:sapling:0:{IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.treeLime\",UID0:\"forestry.treeLime\",Slot:0b},{UID1:\"forestry.heightSmall\",UID0:\"forestry.heightSmall\",Slot:1b},{UID1:\"forestry.saplingsLow\",UID0:\"forestry.saplingsLow\",Slot:2b},{UID1:\"forestry.fruitNone\",UID0:\"forestry.fruitNone\",Slot:3b},{UID1:\"forestry.yieldLower\",UID0:\"forestry.yieldLower\",Slot:4b},{UID1:\"forestry.sappinessLower\",UID0:\"forestry.sappinessLower\",Slot:5b},{UID1:\"forestry.leavesNone\",UID0:\"forestry.leavesNone\",Slot:6b},{UID1:\"forestry.maturationAverage\",UID0:\"forestry.maturationAverage\",Slot:7b},{UID1:\"forestry.i1d\",UID0:\"forestry.i1d\",Slot:8b},{UID1:\"forestry.fireproofFalse\",UID0:\"forestry.fireproofFalse\",Slot:9b}]}}",
+				"fortunes": {
+					"0": 0.0319,
+					"1": 0.0308,
+					"2": 0.0338,
+					"3": 0.0325
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "chisel:limestone2:7",
+		"distrib": "0,0.0;28,0.0;29,5.46875E-5;30,0.007765625;31,0.024027344;32,0.038953125;33,0.04496094;34,0.043941405;35,0.04216797;36,0.041417968;37,0.04019922;38,0.038625;39,0.03684375;40,0.035125;41,0.037066408;42,0.03896875;43,0.037183594;44,0.035269532;45,0.034324218;46,0.032492187;47,0.031339843;48,0.027699219;49,0.028574219;50,0.030121094;51,0.02910547;52,0.027328124;53,0.026742188;54,0.027257813;55,0.027371094;56,0.029140625;57,0.02978125;58,0.026339844;59,0.02483203;60,0.024183594;61,0.020476563;62,0.015027343;63,0.008386719;64,0.0015234374;65,7.8125E-6;66,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:gold_ore:0",
+		"distrib": "0,0.0;1,3.28125E-4;2,7.6953124E-4;3,0.001;4,0.0012617188;5,0.0014765625;6,0.0014882813;7,0.0014296875;8,0.0014882813;9,0.0018164063;10,0.001625;11,0.001828125;12,0.0018867188;13,0.0017070313;14,0.001484375;15,0.0015078125;16,0.0012226562;17,0.001546875;18,0.0013125;19,0.0014335938;20,0.00146875;21,0.0016289062;22,0.0016523438;23,0.0016210937;24,0.0015507813;25,0.0015898438;26,0.0016171875;27,0.00153125;28,0.0017578125;29,0.0017070313;30,8.476562E-4;31,1.1328125E-4;32,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:leaves.decorative.0:9",
+		"distrib": "0,0.0;70,0.0;71,7.03125E-5;72,1.09375E-4;73,7.421875E-5;74,1.015625E-4;75,1.25E-4;76,1.09375E-4;77,1.0546875E-4;78,3.125E-5;79,5.078125E-5;80,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "forestry:sapling:0:{IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.treeMaple\",UID0:\"forestry.treeMaple\",Slot:0b},{UID1:\"forestry.heightAverage\",UID0:\"forestry.heightAverage\",Slot:1b},{UID1:\"forestry.saplingsLow\",UID0:\"forestry.saplingsLow\",Slot:2b},{UID1:\"forestry.fruitNone\",UID0:\"forestry.fruitNone\",Slot:3b},{UID1:\"forestry.yieldLowest\",UID0:\"forestry.yieldLowest\",Slot:4b},{UID1:\"forestry.sappinessLower\",UID0:\"forestry.sappinessLower\",Slot:5b},{UID1:\"forestry.leavesNone\",UID0:\"forestry.leavesNone\",Slot:6b},{UID1:\"forestry.maturationAverage\",UID0:\"forestry.maturationAverage\",Slot:7b},{UID1:\"forestry.i1d\",UID0:\"forestry.i1d\",Slot:8b},{UID1:\"forestry.fireproofFalse\",UID0:\"forestry.fireproofFalse\",Slot:9b}]}}",
+				"fortunes": {
+					"0": 0.0331,
+					"1": 0.0288,
+					"2": 0.0336,
+					"3": 0.0329
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:sponge:1",
+		"distrib": "0,0.0;44,0.0;45,3.125E-5;46,1.09375E-4;47,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:leaves.decorative.0:6",
+		"distrib": "0,0.0;72,0.0;73,4.296875E-5;74,7.03125E-5;75,5.46875E-5;76,0.0;77,1.5625E-4;78,4.3359376E-4;79,3.125E-4;80,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "forestry:fruits:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			},
+			{
+				"itemStack": "forestry:sapling:0:{IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.treeCherry\",UID0:\"forestry.treeCherry\",Slot:0b},{UID1:\"forestry.heightSmaller\",UID0:\"forestry.heightSmaller\",Slot:1b},{UID1:\"forestry.saplingsLow\",UID0:\"forestry.saplingsLow\",Slot:2b},{UID1:\"forestry.fruitCherry\",UID0:\"forestry.fruitCherry\",Slot:3b},{UID1:\"forestry.yieldAverage\",UID0:\"forestry.yieldAverage\",Slot:4b},{UID1:\"forestry.sappinessLow\",UID0:\"forestry.sappinessLow\",Slot:5b},{UID1:\"forestry.leavesNone\",UID0:\"forestry.leavesNone\",Slot:6b},{UID1:\"forestry.maturationAverage\",UID0:\"forestry.maturationAverage\",Slot:7b},{UID1:\"forestry.i1d\",UID0:\"forestry.i1d\",Slot:8b},{UID1:\"forestry.fireproofFalse\",UID0:\"forestry.fireproofFalse\",Slot:9b}]}}",
+				"fortunes": {
+					"0": 0.0342,
+					"1": 0.0326,
+					"2": 0.0311,
+					"3": 0.0344
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pamapple:0",
+		"distrib": "0,0.0;64,0.0;65,7.8125E-6;66,0.0;67,1.5625E-5;68,0.0;69,1.5625E-5;70,0.0;71,0.0;72,1.953125E-5;73,3.90625E-6;74,0.0;75,1.953125E-5;76,7.8125E-6;77,0.0;78,0.0;79,1.171875E-5;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:leaves:2",
+		"distrib": "0,0.0;62,0.0;63,5.46875E-5;64,0.0;65,0.0;66,2.3828125E-4;67,3.4765626E-4;68,4.3359376E-4;69,5.1953126E-4;70,4.6875E-4;71,7.734375E-4;72,8.6328125E-4;73,6.2890624E-4;74,0.0010664063;75,0.0019453125;76,0.0022734376;77,0.0024453124;78,0.0025742187;79,0.0024765625;80,0.0;92,0.0;93,6.25E-5;94,6.640625E-5;95,2.34375E-5;96,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:sapling:2",
+				"fortunes": {
+					"0": 0.0505,
+					"1": 0.0621,
+					"2": 0.0792,
+					"3": 0.1012
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:mossy_cobblestone:0",
+		"distrib": "0,0.0;12,0.0;13,3.125E-4;14,3.90625E-4;15,1.25E-4;16,3.28125E-4;17,0.0;18,1.2890625E-4;19,0.0;21,0.0;22,3.984375E-4;23,0.0;30,0.0;31,1.796875E-4;32,0.0;33,3.828125E-4;34,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:leaves:1",
+		"distrib": "0,0.0;65,0.0;66,1.40625E-4;67,1.6796876E-4;68,3.515625E-4;69,5.625E-4;70,9.5703127E-4;71,8.203125E-4;72,0.002109375;73,0.00325;74,0.0037617187;75,0.00475;76,0.005125;77,0.0054375;78,0.005824219;79,0.005457031;80,1.953125E-5;81,3.90625E-6;82,0.0;88,0.0;89,1.171875E-5;90,1.171875E-5;91,2.1875E-4;92,3.671875E-4;93,5.898437E-4;94,2.7734376E-4;95,2.421875E-4;96,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:sapling:1",
+				"fortunes": {
+					"0": 0.0506,
+					"1": 0.0616,
+					"2": 0.0823,
+					"3": 0.1005
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:item_coffee_seed:0",
+		"distrib": "0,0.0;62,0.0;63,7.8125E-6;64,3.90625E-6;65,0.0;66,0.0;67,3.90625E-6;68,0.0;69,3.90625E-6;70,7.8125E-6;71,1.171875E-5;72,3.90625E-6;73,0.0;74,3.90625E-6;76,3.90625E-6;77,7.8125E-6;78,3.90625E-6;79,3.90625E-6;80,0.0;84,0.0;85,3.90625E-6;86,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_coffee_seed:0",
+				"fortunes": {
+					"0": 1.7217,
+					"1": 2.29,
+					"2": 2.8533,
+					"3": 3.4213
+				}
+			},
+			{
+				"itemStack": "actuallyadditions:item_coffee_beans:0",
+				"fortunes": {
+					"0": 2.4979,
+					"1": 2.5015,
+					"2": 2.4958,
+					"3": 2.4998
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:log:0",
+		"distrib": "0,0.0;5,0.0;6,3.90625E-6;7,7.8125E-6;8,2.34375E-5;9,2.34375E-5;10,5.078125E-5;11,7.421875E-5;12,1.2109375E-4;13,1.5234375E-4;14,1.8359374E-4;15,2.2265625E-4;16,1.953125E-4;17,1.875E-4;18,1.6015625E-4;19,1.40625E-4;20,1.40625E-4;21,1.5625E-4;22,1.640625E-4;23,1.5234375E-4;24,1.3671875E-4;25,1.328125E-4;26,1.2890625E-4;27,1.1328125E-4;28,1.1328125E-4;29,1.09375E-4;30,1.25E-4;31,9.765625E-5;32,8.203125E-5;33,7.421875E-5;34,3.125E-5;35,1.953125E-5;36,2.734375E-5;37,2.34375E-5;38,4.296875E-5;39,3.125E-5;40,3.125E-5;41,2.34375E-5;42,3.515625E-5;43,2.34375E-5;44,7.8125E-6;45,7.8125E-6;46,0.0;60,0.0;61,3.90625E-6;62,1.953125E-5;63,2.6953124E-4;64,3.125E-5;65,4.296875E-5;66,8.203125E-5;67,1.171875E-4;68,1.484375E-4;69,2.03125E-4;70,2.890625E-4;71,3.9453126E-4;72,5.546875E-4;73,7.1484374E-4;74,8.8671874E-4;75,9.4921875E-4;76,8.59375E-4;77,8.125E-4;78,7.617187E-4;79,6.484375E-4;80,0.0;87,0.0;88,3.90625E-6;93,3.90625E-6;94,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:log:1",
+		"distrib": "0,0.0;62,0.0;63,3.90625E-6;64,1.171875E-5;65,2.734375E-5;66,4.6875E-5;67,6.640625E-5;68,1.015625E-4;69,1.25E-4;70,2.03125E-4;71,3.359375E-4;72,4.8828125E-4;73,5.8203127E-4;74,6.171875E-4;75,6.6796876E-4;76,6.757812E-4;77,6.640625E-4;78,6.3671876E-4;79,5.3125E-4;80,0.0;84,0.0;85,3.90625E-6;86,3.90625E-6;87,1.171875E-5;88,1.5625E-5;89,2.34375E-5;90,3.515625E-5;91,3.90625E-5;92,4.6875E-5;93,4.296875E-5;94,3.515625E-5;95,2.34375E-5;96,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:log:2",
+		"distrib": "0,0.0;60,0.0;61,3.90625E-6;62,3.90625E-6;63,5.859375E-5;64,1.953125E-5;65,2.34375E-5;66,3.515625E-5;67,3.90625E-5;68,5.46875E-5;69,5.859375E-5;70,8.203125E-5;71,1.09375E-4;72,1.5625E-4;73,2.265625E-4;74,2.4609375E-4;75,2.734375E-4;76,2.9296876E-4;77,2.96875E-4;78,3.125E-4;79,2.96875E-4;80,0.0;89,0.0;90,3.90625E-6;95,3.90625E-6;96,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:block_black_lotus:0",
+		"distrib": "0,0.0;62,0.0;63,1.5625E-5;64,7.8125E-6;65,0.0;67,0.0;68,1.953125E-5;69,7.8125E-6;70,7.8125E-6;71,1.171875E-5;72,1.953125E-5;73,1.953125E-5;74,2.34375E-5;75,7.8125E-6;76,7.8125E-6;77,1.171875E-5;78,1.171875E-5;79,7.8125E-6;80,0.0;89,0.0;90,3.90625E-6;91,0.0;109,0.0;110,3.90625E-6;111,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:block_black_lotus:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:block_misc:3",
+		"distrib": "0,0.0;1,6.484375E-4;2,0.0012265625;3,0.0016757812;4,0.0021914062;5,0.0025742187;6,0.00271875;7,0.0027578124;8,0.0027929686;9,0.0026796875;10,0.0026992187;11,0.0026835937;12,0.0027226564;13,0.0026835937;14,0.0027148437;15,0.0026367188;16,0.0027617188;17,0.00284375;18,0.0027695312;19,0.0026484374;20,0.0029726562;21,0.0030742188;22,0.0028984374;23,0.0028320313;24,0.0028164063;25,0.0026328126;26,0.0028085937;27,0.0030234375;28,0.0030859376;29,0.0028710938;30,0.0025;31,0.0026367188;32,0.0023476563;33,0.0021015625;34,0.0023164062;35,0.0022734376;36,0.0023828126;37,0.0018515625;38,0.0020273437;39,0.0020429688;40,0.0018476562;41,0.0017578125;42,0.0016289062;43,0.0010625;44,1.25E-4;45,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:frostgarden:0",
+		"distrib": "0,0.0;62,0.0;63,3.90625E-6;64,0.0;71,0.0;72,3.90625E-6;73,7.8125E-6;74,0.0;94,0.0;95,3.90625E-6;96,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "harvestcraft:ryeitem:0",
+				"fortunes": {
+					"0": 0.2461,
+					"1": 0.2379,
+					"2": 0.2516,
+					"3": 0.2501
+				}
+			},
+			{
+				"itemStack": "harvestcraft:raspberryitem:0",
+				"fortunes": {
+					"0": 0.251,
+					"1": 0.25,
+					"2": 0.2504,
+					"3": 0.2528
+				}
+			},
+			{
+				"itemStack": "harvestcraft:caulifloweritem:0",
+				"fortunes": {
+					"0": 0.252,
+					"1": 0.254,
+					"2": 0.2513,
+					"3": 0.2469
+				}
+			},
+			{
+				"itemStack": "harvestcraft:cottonitem:0",
+				"fortunes": {
+					"0": 0.2526,
+					"1": 0.2512,
+					"2": 0.2427,
+					"3": 0.2516
+				}
+			},
+			{
+				"itemStack": "harvestcraft:cabbageitem:0",
+				"fortunes": {
+					"0": 0.2536,
+					"1": 0.2551,
+					"2": 0.2464,
+					"3": 0.2428
+				}
+			},
+			{
+				"itemStack": "harvestcraft:spinachitem:0",
+				"fortunes": {
+					"0": 0.2546,
+					"1": 0.2515,
+					"2": 0.2459,
+					"3": 0.2517
+				}
+			},
+			{
+				"itemStack": "harvestcraft:oatsitem:0",
+				"fortunes": {
+					"0": 0.2449,
+					"1": 0.2469,
+					"2": 0.2469,
+					"3": 0.2511
+				}
+			},
+			{
+				"itemStack": "harvestcraft:broccoliitem:0",
+				"fortunes": {
+					"0": 0.2444,
+					"1": 0.2484,
+					"2": 0.2549,
+					"3": 0.2542
+				}
+			},
+			{
+				"itemStack": "harvestcraft:beetitem:0",
+				"fortunes": {
+					"0": 0.2523,
+					"1": 0.2542,
+					"2": 0.2559,
+					"3": 0.2506
+				}
+			},
+			{
+				"itemStack": "harvestcraft:celeryitem:0",
+				"fortunes": {
+					"0": 0.2465,
+					"1": 0.2542,
+					"2": 0.2538,
+					"3": 0.2469
+				}
+			},
+			{
+				"itemStack": "harvestcraft:rutabagaitem:0",
+				"fortunes": {
+					"0": 0.2529,
+					"1": 0.2483,
+					"2": 0.2446,
+					"3": 0.2458
+				}
+			},
+			{
+				"itemStack": "harvestcraft:peasitem:0",
+				"fortunes": {
+					"0": 0.2491,
+					"1": 0.2483,
+					"2": 0.2556,
+					"3": 0.2555
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pammaple:0",
+		"distrib": "0,0.0;64,0.0;65,1.171875E-5;66,1.171875E-5;67,1.5625E-5;68,1.5625E-5;69,1.171875E-5;70,1.5625E-5;71,2.734375E-5;72,4.296875E-5;73,3.90625E-5;74,3.90625E-5;75,2.734375E-5;76,1.171875E-5;77,1.5625E-5;78,2.734375E-5;79,2.34375E-5;80,0.0;88,0.0;89,3.90625E-6;90,7.8125E-6;91,7.8125E-6;92,0.0;",
+		"silktouch": true,
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_iron:0",
+		"distrib": "0,0.0;7,0.0;8,3.90625E-6;9,0.0;10,0.0;11,3.90625E-6;12,0.0;13,1.953125E-5;14,3.90625E-6;15,0.0;16,7.8125E-6;17,3.90625E-6;18,7.8125E-6;19,3.90625E-6;20,0.0;21,0.0;22,7.8125E-6;23,3.90625E-6;24,0.0;25,3.90625E-6;26,0.0;27,3.90625E-6;28,7.8125E-6;29,3.90625E-6;30,0.0;31,3.90625E-6;32,7.8125E-6;33,3.90625E-6;34,0.0;35,3.90625E-6;36,3.90625E-6;37,7.8125E-6;38,3.90625E-6;39,0.0;44,0.0;45,3.90625E-6;46,0.0;49,0.0;50,7.8125E-6;51,3.90625E-6;52,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:5",
+				"fortunes": {
+					"0": 4.0045,
+					"1": 4.0102,
+					"2": 3.9739,
+					"3": 3.9818
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:shadedgarden:0",
+		"distrib": "0,0.0;61,0.0;62,3.90625E-6;63,1.171875E-5;64,0.0;66,0.0;67,7.8125E-6;69,7.8125E-6;70,1.5625E-5;71,1.5625E-5;72,1.171875E-5;73,1.5625E-5;74,1.953125E-5;75,1.953125E-5;76,3.90625E-6;77,3.90625E-6;78,1.171875E-5;79,3.90625E-6;80,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "harvestcraft:scallionitem:0",
+				"fortunes": {
+					"0": 0.1974,
+					"1": 0.1989,
+					"2": 0.2009,
+					"3": 0.1938
+				}
+			},
+			{
+				"itemStack": "harvestcraft:tomatoitem:0",
+				"fortunes": {
+					"0": 0.2019,
+					"1": 0.1951,
+					"2": 0.2061,
+					"3": 0.2034
+				}
+			},
+			{
+				"itemStack": "harvestcraft:radishitem:0",
+				"fortunes": {
+					"0": 0.1935,
+					"1": 0.199,
+					"2": 0.2015,
+					"3": 0.2003
+				}
+			},
+			{
+				"itemStack": "harvestcraft:garlicitem:0",
+				"fortunes": {
+					"0": 0.1989,
+					"1": 0.1968,
+					"2": 0.2015,
+					"3": 0.2064
+				}
+			},
+			{
+				"itemStack": "harvestcraft:cottonitem:0",
+				"fortunes": {
+					"0": 0.2062,
+					"1": 0.2022,
+					"2": 0.1942,
+					"3": 0.1901
+				}
+			},
+			{
+				"itemStack": "harvestcraft:rhubarbitem:0",
+				"fortunes": {
+					"0": 0.1973,
+					"1": 0.1993,
+					"2": 0.2068,
+					"3": 0.2043
+				}
+			},
+			{
+				"itemStack": "harvestcraft:turnipitem:0",
+				"fortunes": {
+					"0": 0.2026,
+					"1": 0.1996,
+					"2": 0.1957,
+					"3": 0.2045
+				}
+			},
+			{
+				"itemStack": "harvestcraft:whitemushroomitem:0",
+				"fortunes": {
+					"0": 0.2036,
+					"1": 0.2043,
+					"2": 0.1996,
+					"3": 0.1995
+				}
+			},
+			{
+				"itemStack": "harvestcraft:sweetpotatoitem:0",
+				"fortunes": {
+					"0": 0.2053,
+					"1": 0.2026,
+					"2": 0.1987,
+					"3": 0.195
+				}
+			},
+			{
+				"itemStack": "harvestcraft:tealeafitem:0",
+				"fortunes": {
+					"0": 0.204,
+					"1": 0.1957,
+					"2": 0.2064,
+					"3": 0.1996
+				}
+			},
+			{
+				"itemStack": "harvestcraft:spiceleafitem:0",
+				"fortunes": {
+					"0": 0.1981,
+					"1": 0.1923,
+					"2": 0.1948,
+					"3": 0.2033
+				}
+			},
+			{
+				"itemStack": "harvestcraft:leekitem:0",
+				"fortunes": {
+					"0": 0.1979,
+					"1": 0.2048,
+					"2": 0.1994,
+					"3": 0.2018
+				}
+			},
+			{
+				"itemStack": "harvestcraft:beanitem:0",
+				"fortunes": {
+					"0": 0.1961,
+					"1": 0.2035,
+					"2": 0.1987,
+					"3": 0.2001
+				}
+			},
+			{
+				"itemStack": "harvestcraft:blackberryitem:0",
+				"fortunes": {
+					"0": 0.1964,
+					"1": 0.2054,
+					"2": 0.1987,
+					"3": 0.1997
+				}
+			},
+			{
+				"itemStack": "harvestcraft:zucchiniitem:0",
+				"fortunes": {
+					"0": 0.2008,
+					"1": 0.2005,
+					"2": 0.197,
+					"3": 0.1982
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pamchestnut:0",
+		"distrib": "0,0.0;70,0.0;71,1.5625E-5;72,0.0;74,0.0;75,1.5625E-5;76,0.0;78,0.0;79,1.5625E-5;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:brown_mushroom:0",
+		"distrib": "0,0.0;10,0.0;11,1.5625E-5;12,0.0;16,0.0;17,7.8125E-6;18,0.0;19,1.171875E-5;20,7.8125E-6;21,7.8125E-6;22,0.0;24,0.0;25,3.90625E-6;26,3.90625E-6;27,1.953125E-5;28,0.0;33,0.0;34,3.90625E-6;35,0.0;36,1.171875E-5;37,3.90625E-6;38,0.0;39,1.5625E-5;40,0.0;41,3.90625E-6;42,0.0;43,3.90625E-6;44,1.171875E-5;45,3.90625E-6;46,0.0;47,0.0;48,3.90625E-6;49,0.0;50,7.8125E-6;51,0.0;56,0.0;57,2.734375E-5;58,3.90625E-6;59,0.0;62,0.0;63,1.171875E-5;64,0.0;65,3.90625E-6;66,0.0;69,0.0;70,1.171875E-5;71,0.0;72,0.0;73,1.171875E-5;74,3.90625E-6;75,1.171875E-5;76,1.171875E-5;77,4.296875E-5;78,1.171875E-5;79,7.8125E-6;80,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:brown_mushroom:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:item_flax_seed:0",
+		"distrib": "0,0.0;62,0.0;63,1.953125E-5;64,0.0;65,0.0;66,3.90625E-6;67,0.0;68,3.90625E-6;69,3.90625E-6;70,2.34375E-5;71,1.5625E-5;72,1.5625E-5;73,1.171875E-5;74,7.8125E-6;75,1.5625E-5;76,1.171875E-5;77,1.171875E-5;78,3.90625E-6;79,7.8125E-6;80,0.0;105,0.0;106,3.90625E-6;107,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_flax_seed:0",
+				"fortunes": {
+					"0": 1.7125,
+					"1": 2.275,
+					"2": 2.8375,
+					"3": 3.429
+				}
+			},
+			{
+				"itemStack": "minecraft:string:0",
+				"fortunes": {
+					"0": 3.508,
+					"1": 3.4911,
+					"2": 3.5116,
+					"3": 3.5243
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:bedrock:0",
+		"distrib": "0,1.0;1,0.7999219;2,0.60089064;3,0.39884374;4,0.19977735;5,0.0;",
+		"silktouch": true,
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:logs.5:2",
+		"distrib": "0,0.0;69,0.0;70,3.90625E-6;73,3.90625E-6;74,7.8125E-6;76,7.8125E-6;77,3.90625E-6;78,3.90625E-6;79,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:reeds:0",
+		"distrib": "0,0.0;62,0.0;63,7.421875E-5;64,7.8125E-6;65,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:reeds:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:iron_ore:0",
+		"distrib": "0,0.0;1,0.0015585937;2,0.0029453125;3,0.004691406;4,0.0065859375;5,0.007714844;6,0.0077226562;7,0.007816406;8,0.008378906;9,0.008007812;10,0.008441406;11,0.008164062;12,0.0077851564;13,0.0077539063;14,0.007605469;15,0.008363281;16,0.008285156;17,0.007882812;18,0.0076796873;19,0.00778125;20,0.00803125;21,0.008265625;22,0.007949219;23,0.007871094;24,0.007792969;25,0.0076875;26,0.0079375;27,0.008246094;28,0.008003906;29,0.007660156;30,0.007875;31,0.00771875;32,0.0073203123;33,0.0071796877;34,0.006921875;35,0.0074453126;36,0.007191406;37,0.0070078126;38,0.006675781;39,0.006296875;40,0.0060546873;41,0.0058632814;42,0.0061914064;43,0.0061054686;44,0.005792969;45,0.0062773437;46,0.0061953124;47,0.0056875;48,0.0048398436;49,0.004796875;50,0.005125;51,0.0047304686;52,0.004375;53,0.004453125;54,0.00465625;55,0.0043203123;56,0.00425;57,0.004246094;58,0.0040859375;59,0.0043476564;60,0.0037148437;61,0.0029960938;62,0.001515625;63,2.03125E-4;64,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:vine:0",
+		"distrib": "0,0.0;62,0.0;63,4.296875E-5;64,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:logs.5:0",
+		"distrib": "0,0.0;77,0.0;78,3.90625E-6;79,3.90625E-6;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_grass_tall:1",
+		"distrib": "0,0.0;140,0.0;141,9.765625E-5;142,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:air:0",
+				"fortunes": {
+					"0": 0.0,
+					"1": 0.0,
+					"2": 0.0,
+					"3": 0.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_redstone:0",
+		"distrib": "0,0.0;8,0.0;9,7.8125E-6;10,0.0;11,3.90625E-6;12,3.90625E-6;13,0.0;14,1.5625E-5;15,7.8125E-6;16,3.90625E-6;17,3.90625E-6;18,0.0;19,3.90625E-6;21,3.90625E-6;22,0.0;23,7.8125E-6;24,3.90625E-6;25,7.8125E-6;26,0.0;27,0.0;28,3.90625E-6;32,3.90625E-6;33,7.8125E-6;34,7.8125E-6;35,3.90625E-6;36,0.0;40,0.0;41,3.90625E-6;42,0.0;43,3.90625E-6;44,0.0;46,0.0;47,3.90625E-6;48,0.0;49,3.90625E-6;50,0.0;59,0.0;60,3.90625E-6;61,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:0",
+				"fortunes": {
+					"0": 4.0246,
+					"1": 3.9779,
+					"2": 3.9862,
+					"3": 4.0085
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_grass_tall:0",
+		"distrib": "0,0.0;140,0.0;141,9.765625E-5;142,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:air:0",
+				"fortunes": {
+					"0": 0.0,
+					"1": 0.0,
+					"2": 0.0,
+					"3": 0.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:monster_egg:0",
+		"distrib": "0,0.0;1,1.171875E-5;2,1.0546875E-4;3,1.171875E-4;4,1.2109375E-4;5,1.8359374E-4;6,1.40625E-4;7,2.265625E-4;8,2.6953124E-4;9,1.796875E-4;10,1.5625E-4;11,1.2890625E-4;12,1.8359374E-4;13,1.7578126E-4;14,1.4453125E-4;15,2.65625E-4;16,2.6171876E-4;17,1.796875E-4;18,2.0703125E-4;19,1.8359374E-4;20,1.5625E-4;21,1.9140624E-4;22,2.6953124E-4;23,2.96875E-4;24,3.3203125E-4;25,2.1875E-4;26,1.6796876E-4;27,1.796875E-4;28,1.5625E-4;29,1.796875E-4;30,1.2890625E-4;31,1.25E-4;32,1.0546875E-4;33,1.2890625E-4;34,2.734375E-4;35,1.953125E-4;36,1.9140624E-4;37,2.3828125E-4;38,1.9921875E-4;39,2.265625E-4;40,2.4609375E-4;41,1.6796876E-4;42,1.7578126E-4;43,7.421875E-5;44,1.875E-4;45,2.6953124E-4;46,3.0859376E-4;47,3.9453126E-4;48,2.0703125E-4;49,1.6015625E-4;50,1.9921875E-4;51,1.4453125E-4;52,1.640625E-4;53,2.0703125E-4;54,1.875E-4;55,1.8359374E-4;56,2.109375E-4;57,1.6796876E-4;58,1.875E-4;59,1.7578126E-4;60,1.09375E-4;61,1.484375E-4;62,7.03125E-5;63,1.5625E-5;64,0.0;",
+		"silktouch": true,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:sand:0",
+		"distrib": "0,0.0;28,0.0;29,3.125E-4;30,3.203125E-4;31,2.03125E-4;32,6.640625E-5;33,6.640625E-5;34,7.03125E-5;35,3.125E-4;36,5.859375E-5;37,1.71875E-4;38,3.125E-4;39,7.8125E-5;40,3.90625E-5;41,2.734375E-5;42,9.765625E-5;43,4.0625E-4;44,2.109375E-4;45,8.203125E-5;46,7.421875E-5;47,5.46875E-5;48,8.203125E-5;49,1.171875E-4;50,1.640625E-4;51,2.890625E-4;52,7.03125E-4;53,0.0012070312;54,0.003484375;55,0.005574219;56,0.0047890623;57,0.0056132814;58,0.00734375;59,0.011960938;60,0.021992188;61,0.021089844;62,0.015652344;63,0.013679688;64,0.00203125;65,0.0022460937;66,0.0025664063;67,0.0028085937;68,0.0027265626;69,0.0018789063;70,0.0012539063;71,8.28125E-4;72,6.09375E-4;73,6.0546875E-4;74,5.9375E-4;75,6.171875E-4;76,5.7421875E-4;77,5.390625E-4;78,4.140625E-4;79,2.6171876E-4;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:deadbush:0",
+		"distrib": "0,0.0;66,0.0;67,3.90625E-6;68,0.0;69,3.90625E-6;70,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:stick:0",
+				"fortunes": {
+					"0": 1.0028,
+					"1": 0.9981,
+					"2": 0.9856,
+					"3": 1.0066
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:air:0",
+		"distrib": "0,0.0;1,0.0;2,0.01246875;3,0.021738281;4,0.031363282;5,0.041167967;6,0.04410547;7,0.045640625;8,0.04673047;9,0.04871094;10,0.052382812;11,0.05574219;12,0.059304688;13,0.060085937;14,0.062476564;15,0.06644141;16,0.06977735;17,0.07322266;18,0.07608594;19,0.078445315;20,0.07908594;21,0.075570315;22,0.07960937;23,0.08513672;24,0.08429297;25,0.08082422;26,0.07903906;27,0.07664063;28,0.07439063;29,0.072890624;30,0.07410547;31,0.10141016;32,0.13117969;33,0.14069532;34,0.14496875;35,0.15401953;36,0.17229688;37,0.19329688;38,0.21328516;39,0.23183203;40,0.2520039;41,0.2625;42,0.26625782;43,0.27250782;44,0.28191796;45,0.3027578;46,0.31928515;47,0.33484375;48,0.026132813;49,0.024527343;50,0.023851562;51,0.025128907;52,0.025523437;53,0.025277345;54,0.024082031;55,0.02278125;56,0.025664063;57,0.027371094;58,0.02945703;59,0.033128906;60,0.039753906;61,0.051714845;62,0.07414844;63,0.09863672;64,0.019375;65,0.02164453;66,0.02403125;67,0.027480468;68,0.031945314;69,0.039503906;70,0.0513125;71,0.065914065;72,0.08650391;73,0.1028125;74,0.11825391;75,0.12725781;76,0.13538282;77,0.14382422;78,0.1548789;79,0.16566406;80,0.012605469;81,0.012558593;82,0.01259375;83,0.012722656;84,0.012882813;85,0.0130585935;86,0.013367187;87,0.013929687;88,0.014582031;89,0.0153710935;90,0.016269531;91,0.016769532;92,0.017121093;93,0.017378906;94,0.018226562;95,0.01890625;96,0.0066875;97,0.0066953124;98,0.00671875;99,0.006785156;100,0.006953125;101,0.00728125;102,0.00746875;103,0.0075859376;104,0.0077265627;105,0.007875;106,0.008113281;107,0.008597656;108,0.009066407;109,0.009550781;110,0.010082032;111,0.010683593;112,0.004;124,0.004;125,0.0039960938;126,0.0039960938;127,0.003980469;128,0.003972656;129,0.00396875;130,0.0039140624;131,0.0038046874;132,0.0036328125;133,0.0032851563;134,0.0028867188;135,0.0026171876;136,0.00234375;137,0.0023476563;138,0.0024296874;139,0.00265625;140,0.002890625;141,0.003796875;142,0.003980469;143,0.0039921873;144,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:leaves:0",
+		"distrib": "0,0.0;7,0.0;8,2.3828125E-4;9,2.34375E-4;10,2.65625E-4;11,4.3359376E-4;12,7.070312E-4;13,0.0011445313;14,0.0014140625;15,0.0014375;16,0.00203125;17,0.0022695311;18,0.00209375;19,0.0017460937;20,0.0016679687;21,0.0016796875;22,0.0018984375;23,0.0017382812;24,0.0020390626;25,0.0022890626;26,0.0020117187;27,0.001390625;28,0.0015351563;29,0.0015820313;30,0.001453125;31,0.0013242187;32,0.0011367188;33,0.0012265625;34,0.0010039062;35,6.5625E-4;36,3.90625E-4;37,4.21875E-4;38,5.78125E-4;39,3.828125E-4;40,2.65625E-4;41,2.65625E-4;42,5.0E-4;43,4.84375E-4;44,4.1015624E-4;45,2.4609375E-4;46,2.03125E-4;47,1.640625E-4;48,4.296875E-5;49,0.0;50,0.0;51,3.90625E-6;52,3.125E-5;53,1.5625E-5;54,3.90625E-6;55,7.8125E-6;56,1.171875E-5;57,1.171875E-5;58,0.0;61,0.0;62,6.25E-5;63,2.265625E-4;64,3.125E-5;65,2.6171876E-4;66,5.625E-4;67,6.8359374E-4;68,0.0011992188;69,0.0015234374;70,0.0018867188;71,0.0026796875;72,0.0038945312;73,0.006421875;74,0.008007812;75,0.008566407;76,0.009566406;77,0.009546875;78,0.0083554685;79,0.0068203127;80,0.0;87,0.0;88,1.5625E-5;89,1.171875E-5;90,0.0;91,3.90625E-5;92,4.296875E-5;93,1.953125E-5;94,1.5625E-5;95,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:apple:0",
+				"fortunes": {
+					"0": 0.0037,
+					"1": 0.0051,
+					"2": 0.0058,
+					"3": 0.0073
+				}
+			},
+			{
+				"itemStack": "minecraft:sapling:0",
+				"fortunes": {
+					"0": 0.0457,
+					"1": 0.0633,
+					"2": 0.0831,
+					"3": 0.1035
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pampear:0",
+		"distrib": "0,0.0;72,0.0;73,3.90625E-6;74,0.0;75,0.0;76,3.90625E-6;77,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "chisel:marble2:7",
+		"distrib": "0,0.0;28,0.0;29,3.0078125E-4;30,0.010828125;31,0.031589843;32,0.04957031;33,0.056128908;34,0.05696875;35,0.055375;36,0.0544375;37,0.05475;38,0.052261718;39,0.048824217;40,0.049566407;41,0.04832422;42,0.048796874;43,0.049804688;44,0.048039064;45,0.043652344;46,0.042128906;47,0.042960938;48,0.040710937;49,0.03976172;50,0.03922656;51,0.038652346;52,0.0365;53,0.036078125;54,0.037441406;55,0.03820703;56,0.036972657;57,0.0368125;58,0.035972655;59,0.032335937;60,0.029984375;61,0.027585937;62,0.019589843;63,0.009679687;64,0.0017890625;65,5.46875E-5;66,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:fence:0",
+		"distrib": "0,0.0;9,0.0;10,7.8125E-6;11,7.8125E-6;12,1.5625E-5;13,7.03125E-5;14,1.09375E-4;15,1.0546875E-4;16,8.984375E-5;17,3.75E-4;18,7.265625E-4;19,6.71875E-4;20,5.039062E-4;21,5.6640623E-4;22,0.0010703125;23,0.0013828125;24,0.0010703125;25,7.734375E-4;26,7.617187E-4;27,6.71875E-4;28,5.9765624E-4;29,6.25E-4;30,5.0E-4;31,6.171875E-4;32,8.476562E-4;33,6.015625E-4;34,2.7734376E-4;35,4.921875E-4;36,6.2890624E-4;37,4.4921876E-4;38,5.625E-4;39,9.21875E-4;40,7.421875E-4;41,2.8515625E-4;42,1.1328125E-4;43,2.34375E-5;44,4.6875E-5;45,9.375E-5;46,7.03125E-5;47,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:fence:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:red_flower:2",
+		"distrib": "0,0.0;13,0.0;14,3.90625E-6;15,0.0;62,0.0;63,4.6875E-5;64,3.515625E-5;65,0.0;68,0.0;69,7.8125E-6;70,0.0;71,7.8125E-6;72,7.8125E-6;73,0.0;75,0.0;76,3.90625E-6;77,0.0;78,0.0;79,3.90625E-6;80,0.0;87,0.0;88,3.90625E-6;89,1.5625E-5;90,1.5625E-5;91,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_flower:2",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:red_flower:3",
+		"distrib": "0,0.0;8,0.0;9,7.8125E-6;10,0.0;12,0.0;13,3.90625E-6;14,0.0;16,0.0;17,3.90625E-6;18,0.0;19,0.0;20,3.90625E-6;21,0.0;24,0.0;25,3.90625E-6;26,0.0;27,3.90625E-6;28,0.0;39,0.0;40,3.90625E-6;41,0.0;62,0.0;63,3.90625E-5;64,1.171875E-5;65,1.5625E-5;66,0.0;68,0.0;69,1.5625E-5;70,1.953125E-5;71,2.734375E-5;72,1.953125E-5;73,1.171875E-5;74,5.859375E-5;75,7.03125E-5;76,3.125E-5;77,1.953125E-5;78,3.90625E-6;79,3.90625E-6;80,0.0;87,0.0;88,3.90625E-6;89,2.34375E-5;90,3.90625E-6;91,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_flower:3",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:red_flower:0",
+		"distrib": "0,0.0;5,0.0;6,7.8125E-6;7,0.0;8,7.8125E-6;9,7.8125E-6;10,1.5625E-5;11,1.171875E-5;12,1.953125E-5;13,1.171875E-5;14,1.171875E-5;15,2.734375E-5;16,1.171875E-5;17,1.5625E-5;18,7.8125E-6;19,7.8125E-6;20,1.171875E-5;21,1.5625E-5;22,1.171875E-5;24,1.171875E-5;25,1.953125E-5;26,1.171875E-5;27,1.171875E-5;28,7.8125E-6;29,3.90625E-6;30,7.8125E-6;31,1.5625E-5;32,3.90625E-6;33,0.0;34,0.0;35,3.90625E-6;36,0.0;37,3.90625E-6;38,0.0;41,0.0;42,3.90625E-6;43,0.0;44,3.90625E-6;45,0.0;62,0.0;63,7.03125E-5;64,1.953125E-5;65,3.90625E-6;66,1.171875E-5;67,1.5625E-5;68,3.515625E-5;69,1.5625E-5;70,3.90625E-5;71,3.515625E-5;72,7.8125E-5;73,3.125E-5;74,3.515625E-5;75,6.25E-5;76,3.515625E-5;77,3.125E-5;78,3.90625E-5;79,3.515625E-5;80,3.90625E-6;81,3.90625E-6;82,0.0;83,7.8125E-6;84,0.0;87,0.0;88,3.90625E-6;89,7.8125E-6;90,0.0;91,1.171875E-5;92,0.0;93,7.8125E-6;94,3.90625E-6;95,3.90625E-6;96,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_flower:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:red_flower:1",
+		"distrib": "0,0.0;19,0.0;20,3.90625E-6;21,0.0;22,3.90625E-6;23,0.0;25,0.0;26,1.5625E-5;27,3.90625E-6;28,3.90625E-6;29,0.0;37,0.0;38,3.90625E-6;39,0.0;62,0.0;63,2.734375E-5;64,0.0;72,0.0;73,1.953125E-5;74,7.8125E-6;75,0.0;76,0.0;77,3.90625E-6;78,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_flower:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:emerald_ore:0",
+		"distrib": "0,0.0;3,0.0;4,3.515625E-5;5,5.078125E-5;6,2.34375E-5;7,6.25E-5;8,4.6875E-5;9,6.640625E-5;10,2.734375E-5;11,5.46875E-5;12,6.640625E-5;13,4.296875E-5;14,5.859375E-5;15,5.078125E-5;16,5.859375E-5;17,4.6875E-5;18,2.734375E-5;19,4.296875E-5;20,6.640625E-5;21,4.6875E-5;22,5.859375E-5;23,3.515625E-5;24,3.90625E-5;25,3.125E-5;26,4.6875E-5;27,3.90625E-5;28,4.6875E-5;29,7.421875E-5;30,4.6875E-5;31,6.25E-5;32,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:emerald:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.3364,
+					"2": 1.7488,
+					"3": 2.2262
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:sandstone:0",
+		"distrib": "0,0.0;44,0.0;45,5.078125E-5;46,1.171875E-4;47,2.8125E-4;48,8.59375E-5;49,1.640625E-4;50,3.3984374E-4;51,4.8046876E-4;52,4.8046876E-4;53,5.78125E-4;54,7.5E-4;55,0.0010078124;56,0.001359375;57,0.0024023438;58,0.003484375;59,0.0044257813;60,0.01009375;61,0.015273438;62,0.019738281;63,0.022636719;64,0.0036992189;65,0.003125;66,0.0024023438;67,0.0018867188;68,0.001484375;69,0.0013007813;70,0.0011328125;71,9.7265624E-4;72,7.890625E-4;73,6.484375E-4;74,4.8046876E-4;75,3.046875E-4;76,1.71875E-4;77,5.078125E-5;78,7.8125E-6;79,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:diamond_ore:0",
+		"distrib": "0,0.0;1,2.8125E-4;2,4.8046876E-4;3,5.6640623E-4;4,8.984375E-4;5,0.0015625;6,0.0012539063;7,0.0012382813;8,0.0013164063;9,0.0012226562;10,0.0010664063;11,0.0010039062;12,0.0010976562;13,7.929687E-4;14,5.6640623E-4;15,1.015625E-4;16,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:diamond:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.3316,
+					"2": 1.7423,
+					"3": 2.1988
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:windygarden:0",
+		"distrib": "0,0.0;72,0.0;73,7.8125E-6;74,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "harvestcraft:parsnipitem:0",
+				"fortunes": {
+					"0": 0.1819,
+					"1": 0.1835,
+					"2": 0.1789,
+					"3": 0.173
+				}
+			},
+			{
+				"itemStack": "harvestcraft:cottonitem:0",
+				"fortunes": {
+					"0": 0.1738,
+					"1": 0.166,
+					"2": 0.1765,
+					"3": 0.1798
+				}
+			},
+			{
+				"itemStack": "harvestcraft:cornitem:0",
+				"fortunes": {
+					"0": 0.1768,
+					"1": 0.1711,
+					"2": 0.1711,
+					"3": 0.1666
+				}
+			},
+			{
+				"itemStack": "harvestcraft:peanutitem:0",
+				"fortunes": {
+					"0": 0.1728,
+					"1": 0.1807,
+					"2": 0.1738,
+					"3": 0.1739
+				}
+			},
+			{
+				"itemStack": "harvestcraft:strawberryitem:0",
+				"fortunes": {
+					"0": 0.1763,
+					"1": 0.177,
+					"2": 0.1774,
+					"3": 0.1763
+				}
+			},
+			{
+				"itemStack": "harvestcraft:lettuceitem:0",
+				"fortunes": {
+					"0": 0.1783,
+					"1": 0.1759,
+					"2": 0.1705,
+					"3": 0.1793
+				}
+			},
+			{
+				"itemStack": "minecraft:wheat:0",
+				"fortunes": {
+					"0": 0.1778,
+					"1": 0.1781,
+					"2": 0.1774,
+					"3": 0.1707
+				}
+			},
+			{
+				"itemStack": "harvestcraft:cucumberitem:0",
+				"fortunes": {
+					"0": 0.176,
+					"1": 0.177,
+					"2": 0.1771,
+					"3": 0.1763
+				}
+			},
+			{
+				"itemStack": "harvestcraft:wintersquashitem:0",
+				"fortunes": {
+					"0": 0.1774,
+					"1": 0.1708,
+					"2": 0.1762,
+					"3": 0.179
+				}
+			},
+			{
+				"itemStack": "minecraft:carrot:0",
+				"fortunes": {
+					"0": 0.1763,
+					"1": 0.1712,
+					"2": 0.1803,
+					"3": 0.1781
+				}
+			},
+			{
+				"itemStack": "harvestcraft:onionitem:0",
+				"fortunes": {
+					"0": 0.1796,
+					"1": 0.1816,
+					"2": 0.1821,
+					"3": 0.1779
+				}
+			},
+			{
+				"itemStack": "minecraft:potato:0",
+				"fortunes": {
+					"0": 0.1786,
+					"1": 0.1765,
+					"2": 0.1778,
+					"3": 0.178
+				}
+			},
+			{
+				"itemStack": "harvestcraft:bellpepperitem:0",
+				"fortunes": {
+					"0": 0.1764,
+					"1": 0.1815,
+					"2": 0.1761,
+					"3": 0.1787
+				}
+			},
+			{
+				"itemStack": "harvestcraft:chilipepperitem:0",
+				"fortunes": {
+					"0": 0.1765,
+					"1": 0.1739,
+					"2": 0.1728,
+					"3": 0.1777
+				}
+			},
+			{
+				"itemStack": "harvestcraft:artichokeitem:0",
+				"fortunes": {
+					"0": 0.1727,
+					"1": 0.1794,
+					"2": 0.1784,
+					"3": 0.1878
+				}
+			},
+			{
+				"itemStack": "harvestcraft:mustardseedsitem:0",
+				"fortunes": {
+					"0": 0.1735,
+					"1": 0.1865,
+					"2": 0.1746,
+					"3": 0.1722
+				}
+			},
+			{
+				"itemStack": "harvestcraft:barleyitem:0",
+				"fortunes": {
+					"0": 0.1753,
+					"1": 0.1693,
+					"2": 0.179,
+					"3": 0.1747
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "iskalliumreactors:iskallium_stone_ore:0",
+		"distrib": "0,0.0;2,0.0;3,1.5625E-5;4,1.5625E-5;5,1.171875E-5;6,1.953125E-5;7,3.125E-5;8,1.953125E-5;9,3.125E-5;10,3.515625E-5;11,1.5625E-5;12,2.34375E-5;13,5.078125E-5;14,2.734375E-5;15,2.734375E-5;16,1.953125E-5;17,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "iskalliumreactors:iskallium_essence:0",
+				"fortunes": {
+					"0": 4.0159,
+					"1": 5.4188,
+					"2": 6.98,
+					"3": 8.7787
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:double_plant:4",
+		"distrib": "0,0.0;62,0.0;63,2.34375E-5;64,0.0;74,0.0;75,3.90625E-6;76,3.90625E-6;77,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:double_plant:4",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:logs.0:0",
+		"distrib": "0,0.0;74,0.0;75,3.90625E-6;79,3.90625E-6;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:double_plant:5",
+		"distrib": "0,0.0;11,0.0;12,3.90625E-6;14,3.90625E-6;15,0.0;62,0.0;63,7.8125E-6;64,0.0;74,0.0;75,7.8125E-6;76,7.8125E-6;77,3.90625E-6;78,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:double_plant:5",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:planks:0",
+		"distrib": "0,0.0;10,0.0;11,3.515625E-5;12,3.125E-5;13,1.015625E-4;14,1.71875E-4;15,1.3671875E-4;16,2.9296876E-4;17,2.6953124E-4;18,6.5625E-4;19,6.640625E-4;20,8.671875E-4;21,0.0010078124;22,9.1015623E-4;23,0.001171875;24,0.0016992188;25,0.0014179688;26,0.001078125;27,0.0011367188;28,0.0011367188;29,6.6796876E-4;30,6.445313E-4;31,6.9921877E-4;32,5.6640623E-4;33,7.5390626E-4;34,7.421875E-4;35,4.1796875E-4;36,4.0234375E-4;37,9.804687E-4;38,5.8203127E-4;39,7.734375E-4;40,7.265625E-4;41,9.2578126E-4;42,2.734375E-4;43,3.7109375E-4;44,6.25E-5;45,1.3671875E-4;46,9.375E-5;47,1.6015625E-4;48,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "immersiveengineering:ore:3",
+		"distrib": "0,0.0;4,0.0;5,1.5625E-4;6,0.001015625;7,0.0016289062;8,0.0016757812;9,0.0018554687;10,0.0017109375;11,0.002;12,0.001828125;13,0.0019335938;14,0.001515625;15,0.0017148438;16,0.0018789063;17,0.0018359375;18,0.0018984375;19,0.0017421875;20,0.0018476562;21,0.0019804689;22,0.001640625;23,0.002015625;24,0.002109375;25,0.0018476562;26,0.0016757812;27,0.0019296875;28,0.0017929687;29,0.0019335938;30,0.001765625;31,0.0016328125;32,0.00184375;33,0.0019023437;34,0.0015703125;35,0.0016289062;36,0.0018007812;37,0.0013085938;38,8.0859376E-4;39,1.2109375E-4;40,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "immersiveengineering:ore:2",
+		"distrib": "0,0.0;4,0.0;5,6.640625E-5;6,5.6640623E-4;7,0.0014335938;8,0.0013984375;9,0.0014726563;10,0.0013515624;11,0.001515625;12,0.0013710938;13,0.001390625;14,0.0014375;15,0.0013164063;16,0.0015898438;17,0.0016210937;18,0.0015507813;19,0.0015039062;20,0.0017773438;21,0.0013515624;22,0.00125;23,0.0016367187;24,0.001328125;25,0.001609375;26,0.001640625;27,0.00146875;28,0.0016054688;29,0.001703125;30,0.0015039062;31,0.0014257813;32,0.0014375;33,0.0012617188;34,7.1484374E-4;35,8.984375E-5;36,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:double_plant:1",
+		"distrib": "0,0.0;62,0.0;63,1.171875E-5;64,0.0;65,3.90625E-6;66,1.5625E-5;67,0.0;69,0.0;70,3.90625E-6;71,1.171875E-5;72,0.0;74,0.0;75,3.90625E-6;77,3.90625E-6;78,0.0;88,0.0;89,7.8125E-6;90,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:double_plant:1",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "immersiveengineering:ore:5",
+		"distrib": "0,0.0;5,0.0;6,7.03125E-5;7,1.5234375E-4;8,1.4453125E-4;9,1.6015625E-4;10,2.8515625E-4;11,1.640625E-4;12,2.34375E-4;13,1.484375E-4;14,2.109375E-4;15,1.2109375E-4;16,1.2890625E-4;17,1.6796876E-4;18,2.3828125E-4;19,1.484375E-4;20,1.796875E-4;21,9.375E-5;22,1.015625E-4;23,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:double_plant:2",
+		"distrib": "0,0.0;12,0.0;13,3.90625E-6;14,0.0;18,0.0;19,3.90625E-6;20,3.90625E-6;21,0.0;24,0.0;25,1.171875E-5;26,0.0;27,3.90625E-6;28,0.0;61,0.0;62,3.90625E-6;63,9.765625E-5;64,0.0;65,3.90625E-6;66,7.8125E-6;67,1.5625E-5;68,3.90625E-6;69,2.34375E-5;70,2.34375E-5;71,2.734375E-5;72,5.46875E-5;73,6.25E-5;74,1.953125E-5;75,3.90625E-6;76,0.0;77,3.90625E-6;78,3.90625E-6;79,7.8125E-6;80,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:wheat_seeds:0",
+				"fortunes": {
+					"0": 0.1233,
+					"1": 0.1205,
+					"2": 0.1275,
+					"3": 0.1255
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "immersiveengineering:ore:4",
+		"distrib": "0,0.0;4,0.0;5,2.34375E-5;6,7.109375E-4;7,0.0011914063;8,0.0010859375;9,0.0011914063;10,0.00128125;11,0.0013242187;12,0.0014101563;13,0.001375;14,0.00121875;15,0.0013476562;16,0.0011640625;17,0.0011640625;18,0.0014296875;19,0.0014179688;20,0.001328125;21,0.0011640625;22,6.171875E-4;23,3.515625E-5;24,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:double_plant:3",
+		"distrib": "0,0.0;12,0.0;13,3.90625E-6;14,7.8125E-6;15,3.90625E-6;16,0.0;19,0.0;20,3.90625E-6;21,3.90625E-6;22,0.0;25,0.0;26,1.171875E-5;27,0.0;28,3.90625E-6;29,0.0;38,0.0;39,3.90625E-6;40,3.90625E-6;41,0.0;62,0.0;63,4.296875E-5;64,8.203125E-5;65,7.03125E-5;66,4.296875E-5;67,7.8125E-5;68,9.375E-5;69,5.46875E-5;70,1.4453125E-4;71,1.953125E-4;72,1.953125E-4;73,1.640625E-4;74,1.2109375E-4;75,9.765625E-5;76,8.203125E-5;77,1.171875E-4;78,1.25E-4;79,3.90625E-5;80,0.0;89,0.0;90,7.8125E-6;91,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:red_flower:6",
+		"distrib": "0,0.0;17,0.0;18,3.90625E-6;19,0.0;22,0.0;23,3.90625E-6;24,0.0;25,3.90625E-6;26,0.0;28,0.0;29,3.90625E-6;30,0.0;62,0.0;63,7.03125E-5;64,2.34375E-5;65,1.171875E-5;66,0.0;67,3.90625E-6;69,3.90625E-6;70,1.171875E-5;71,7.8125E-6;72,3.90625E-6;73,1.171875E-5;74,0.0;76,0.0;77,3.90625E-6;78,0.0;79,3.90625E-6;80,0.0;85,0.0;86,3.90625E-6;87,0.0;89,0.0;90,3.90625E-6;91,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_flower:6",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:red_flower:7",
+		"distrib": "0,0.0;24,0.0;25,3.90625E-6;26,0.0;66,0.0;67,3.90625E-6;68,3.90625E-6;69,0.0;70,0.0;71,7.8125E-6;72,7.8125E-6;73,0.0;74,7.8125E-6;75,0.0;76,3.90625E-6;77,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_flower:7",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "immersiveengineering:ore:1",
+		"distrib": "0,0.0;37,0.0;38,1.484375E-4;39,1.953125E-4;40,2.890625E-4;41,3.125E-4;42,2.421875E-4;43,2.109375E-4;44,2.5390624E-4;45,2.4609375E-4;46,1.640625E-4;47,2.03125E-4;48,2.5390624E-4;49,2.6171876E-4;50,1.5234375E-4;51,1.328125E-4;52,2.2265625E-4;53,3.0859376E-4;54,1.875E-4;55,1.6015625E-4;56,2.265625E-4;57,1.2109375E-4;58,2.578125E-4;59,1.484375E-4;60,1.40625E-4;61,1.7578126E-4;62,1.875E-4;63,1.9140624E-4;64,6.25E-5;65,2.34375E-5;66,8.59375E-5;67,4.6875E-5;68,7.8125E-6;69,1.015625E-4;70,1.5625E-5;71,1.5625E-5;72,1.953125E-5;73,5.46875E-5;74,3.125E-5;75,1.5625E-5;76,0.0;77,0.0;78,4.6875E-5;79,0.0;80,1.5625E-5;81,0.0;82,0.0;83,1.5625E-5;84,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pamplum:0",
+		"distrib": "0,0.0;71,0.0;72,3.90625E-6;73,1.5625E-5;74,7.8125E-6;75,1.953125E-5;76,0.0;77,1.5625E-5;78,3.90625E-6;79,1.953125E-5;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:red_flower:4",
+		"distrib": "0,0.0;9,0.0;10,3.90625E-6;11,0.0;17,0.0;18,7.8125E-6;19,7.8125E-6;20,0.0;38,0.0;39,3.90625E-6;40,0.0;62,0.0;63,2.734375E-5;64,0.0;67,0.0;68,3.90625E-6;70,3.90625E-6;71,2.34375E-5;72,2.734375E-5;73,4.6875E-5;74,1.171875E-5;75,1.5625E-5;76,3.125E-5;77,1.953125E-5;78,7.8125E-6;79,7.8125E-6;80,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_flower:4",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "immersiveengineering:ore:0",
+		"distrib": "0,0.0;36,0.0;37,3.671875E-4;38,0.0019296875;39,0.0030859376;40,0.0035429688;41,0.0033867187;42,0.0036210937;43,0.00371875;44,0.0033164062;45,0.0033671875;46,0.0035507812;47,0.003359375;48,0.0030429687;49,0.002671875;50,0.0025078126;51,0.0026992187;52,0.0024414062;53,0.0026992187;54,0.0026757813;55,0.0026796875;56,0.002921875;57,0.0023320313;58,0.00228125;59,0.00253125;60,0.0019648438;61,0.001765625;62,0.0016757812;63,0.0014882813;64,9.6875E-4;65,0.0010546875;66,0.0010078124;67,7.421875E-4;68,7.734375E-4;69,6.953125E-4;70,3.125E-4;71,5.46875E-5;72,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:red_flower:5",
+		"distrib": "0,0.0;9,0.0;10,3.90625E-6;11,0.0;14,0.0;15,3.90625E-6;16,0.0;24,0.0;25,3.90625E-6;26,0.0;62,0.0;63,7.8125E-5;64,0.0;65,3.90625E-6;66,3.90625E-6;67,0.0;68,3.90625E-6;69,0.0;70,3.125E-5;71,3.90625E-5;72,2.34375E-5;73,2.734375E-5;74,1.171875E-5;75,1.171875E-5;76,0.0;77,0.0;78,7.8125E-6;79,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_flower:5",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:torch:0",
+		"distrib": "0,0.0;20,0.0;21,3.90625E-6;22,0.0;23,3.90625E-6;24,1.171875E-5;25,0.0;26,0.0;27,3.90625E-6;28,0.0;30,0.0;31,3.90625E-6;33,3.90625E-6;34,0.0;35,7.8125E-6;36,0.0;37,3.90625E-6;38,0.0;39,1.5625E-5;40,7.8125E-6;41,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:torch:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "chinjufumod:block_bauxite_ore:0",
+		"distrib": "0,0.0;6,0.0;7,5.3125E-4;8,0.0035390626;9,0.0068164063;10,0.0079375;11,0.007683594;12,0.007738281;13,0.007964844;14,0.0077265627;15,0.007246094;16,0.0072382814;17,0.0067382813;18,0.0071484377;19,0.007089844;20,0.007792969;21,0.007792969;22,0.0072304686;23,0.0071835937;24,0.007140625;25,0.007296875;26,0.0073789065;27,0.007625;28,0.007496094;29,0.0067265625;30,0.007027344;31,0.007113281;32,0.0069765626;33,0.0070976564;34,0.0067109377;35,0.0061835935;36,0.006171875;37,0.0060390625;38,0.006175781;39,0.005824219;40,0.0054804687;41,0.005457031;42,0.005792969;43,0.0061132815;44,0.005859375;45,0.0053359377;46,0.0047890623;47,0.004859375;48,0.004777344;49,0.004375;50,0.0040117186;51,0.0042421874;52,0.004222656;53,0.0044296873;54,0.004125;55,0.0040664063;56,0.00409375;57,0.003984375;58,0.003953125;59,0.0038632813;60,0.0036210937;61,0.0033828125;62,0.0031914061;63,0.0026914063;64,0.0017382812;65,0.00159375;66,0.00134375;67,0.0013125;68,9.6875E-4;69,4.609375E-4;70,3.515625E-5;71,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "chinjufumod:item_bauxite:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.3285,
+					"2": 1.751,
+					"3": 2.1922
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:prismarine:0",
+		"distrib": "0,0.0;38,0.0;39,0.0041015623;40,3.90625E-5;41,4.53125E-4;42,3.90625E-5;43,0.0020234375;44,8.59375E-5;45,3.4375E-4;46,8.59375E-5;47,0.0012148437;48,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:red_flower:8",
+		"distrib": "0,0.0;10,0.0;11,3.90625E-6;12,0.0;14,0.0;15,3.90625E-6;16,3.90625E-6;17,0.0;18,3.90625E-6;19,3.90625E-6;20,0.0;25,0.0;26,3.90625E-6;27,0.0;28,3.90625E-6;29,0.0;62,0.0;63,1.5625E-5;64,0.0;65,0.0;66,3.90625E-6;67,1.171875E-5;68,0.0;72,0.0;73,3.90625E-6;75,3.90625E-6;76,0.0;77,0.0;78,3.90625E-6;79,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_flower:8",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:prismarine:1",
+		"distrib": "0,0.0;34,0.0;35,4.6875E-5;36,1.640625E-4;37,3.59375E-4;38,6.09375E-4;39,6.5625E-4;40,0.0010234375;41,4.53125E-4;42,0.001046875;43,7.6953124E-4;44,9.375E-4;45,3.2421874E-4;46,8.6328125E-4;47,3.0078125E-4;48,1.171875E-5;49,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pamcherry:0",
+		"distrib": "0,0.0;72,0.0;73,3.90625E-6;74,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:red_mushroom:0",
+		"distrib": "0,0.0;10,0.0;11,1.171875E-5;12,0.0;19,0.0;20,3.90625E-6;21,3.90625E-6;22,0.0;24,0.0;25,3.90625E-6;26,7.8125E-6;27,0.0;28,3.90625E-6;29,7.8125E-6;30,0.0;31,0.0;32,3.90625E-6;33,0.0;35,0.0;36,3.90625E-6;37,0.0;40,0.0;41,7.8125E-6;42,0.0;45,0.0;46,3.90625E-6;47,0.0;49,0.0;50,1.5625E-5;51,0.0;63,0.0;64,3.90625E-6;65,0.0;68,0.0;69,3.90625E-6;71,3.90625E-6;72,5.46875E-5;74,5.46875E-5;75,8.59375E-5;76,5.078125E-5;77,5.078125E-5;78,3.515625E-5;79,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:red_mushroom:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:prismarine:2",
+		"distrib": "0,0.0;39,0.0;40,2.34375E-5;41,1.015625E-4;42,0.0;43,4.6875E-5;44,6.25E-5;45,2.578125E-4;46,0.0;47,7.8125E-6;48,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:coal_ore:0",
+		"distrib": "0,0.0;1,0.0021171875;2,0.00478125;3,0.0073945313;4,0.009257812;5,0.011613281;6,0.011527344;7,0.011640625;8,0.012390625;9,0.012292969;10,0.012359375;11,0.012855468;12,0.012617188;13,0.012628906;14,0.012199218;15,0.01296875;16,0.012832032;17,0.01296875;18,0.012308594;19,0.011917969;20,0.011945313;21,0.011878906;22,0.012136719;23,0.012882813;24,0.013679688;25,0.01296875;26,0.012179688;27,0.012238281;28,0.011820313;29,0.011863281;30,0.011265625;31,0.011789062;32,0.0120429685;33,0.0109375;34,0.010132813;35,0.010386718;36,0.010757812;37,0.009695313;38,0.009097656;39,0.009859375;40,0.009867188;41,0.00890625;42,0.0087890625;43,0.009035156;44,0.009429688;45,0.009082031;46,0.008683594;47,0.009019531;48,0.008152343;49,0.007835938;50,0.0076875;51,0.0073945313;52,0.007253906;53,0.008125;54,0.007953125;55,0.007308594;56,0.007578125;57,0.007628906;58,0.0074375;59,0.007527344;60,0.0067148437;61,0.005316406;62,0.0045546875;63,0.0049921875;64,0.0031523437;65,0.0024726563;66,0.0022109374;67,0.0019375;68,0.0021953124;69,0.0017109375;70,0.0012070312;71,0.001109375;72,7.65625E-4;73,5.1171874E-4;74,4.0234375E-4;75,4.296875E-4;76,3.671875E-4;77,3.671875E-4;78,4.375E-4;79,3.3984374E-4;80,2.8125E-4;81,2.734375E-4;82,3.75E-4;83,4.0234375E-4;84,3.3984374E-4;85,2.265625E-4;86,1.6015625E-4;87,1.484375E-4;88,1.40625E-4;89,2.734375E-4;90,3.90625E-4;91,3.515625E-4;92,1.9140624E-4;93,1.484375E-4;94,2.2265625E-4;95,2.890625E-4;96,8.203125E-5;97,0.0;98,0.0;99,3.125E-5;100,6.25E-5;101,2.734375E-5;102,3.515625E-5;103,4.296875E-5;104,0.0;105,3.90625E-6;106,1.171875E-5;107,3.90625E-6;108,7.8125E-6;109,1.5625E-5;110,2.734375E-5;111,8.59375E-5;112,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:coal:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.3339,
+					"2": 1.739,
+					"3": 2.2004
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:grass:0",
+		"distrib": "0,0.0;4,0.0;5,1.09375E-4;6,3.671875E-4;7,8.0078124E-4;8,0.001390625;9,0.0019140625;10,0.0023242189;11,0.00290625;12,0.0026523438;13,0.0026367188;14,0.0023515625;15,0.0019960937;16,0.0021796876;17,0.0016640625;18,0.0020859374;19,0.0022109374;20,0.0018671874;21,0.0021757812;22,0.0023242189;23,0.002125;24,0.0023164062;25,0.0021875;26,0.0017460937;27,0.0014101563;28,9.375E-4;29,6.640625E-4;30,8.59375E-4;31,6.8359374E-4;32,4.5703124E-4;33,2.4609375E-4;34,2.578125E-4;35,4.609375E-4;36,7.7734375E-4;37,8.28125E-4;38,6.953125E-4;39,5.273438E-4;40,3.3203125E-4;41,2.03125E-4;42,2.2265625E-4;43,2.65625E-4;44,1.640625E-4;45,1.0546875E-4;46,3.90625E-5;47,9.375E-5;48,7.03125E-5;49,9.375E-5;50,4.6875E-5;51,4.296875E-5;52,1.171875E-5;53,3.90625E-6;54,0.0;60,0.0;61,7.421875E-5;62,0.025945313;63,0.04582031;64,0.002234375;65,0.0028710938;66,0.00334375;67,0.0043828124;68,0.00690625;69,0.01178125;70,0.015515625;71,0.023144532;72,0.018988281;73,0.018984376;74,0.011847656;75,0.009191406;76,0.0091523435;77,0.01009375;78,0.0063320315;79,0.0040859375;80,4.296875E-5;81,6.640625E-5;82,1.2890625E-4;83,1.4453125E-4;84,1.6015625E-4;85,3.0859376E-4;86,5.234375E-4;87,6.640625E-4;88,8.3984376E-4;89,8.6328125E-4;90,7.421875E-4;91,6.171875E-4;92,6.2890624E-4;93,6.445313E-4;94,5.1953126E-4;95,5.3125E-4;96,3.90625E-5;97,5.46875E-5;98,1.25E-4;99,2.8125E-4;100,1.1328125E-4;101,7.421875E-5;102,1.2890625E-4;103,1.015625E-4;104,1.6015625E-4;105,3.75E-4;106,3.125E-4;107,2.65625E-4;108,2.5E-4;109,2.03125E-4;110,1.9140624E-4;111,8.203125E-5;112,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:dirt:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:tallgrass:2",
+		"distrib": "0,0.0;62,0.0;63,9.375E-5;64,7.8125E-6;65,1.171875E-5;66,2.34375E-5;67,1.953125E-5;68,7.8125E-6;69,5.46875E-5;70,1.015625E-4;71,2.03125E-4;72,4.1796875E-4;73,1.40625E-4;74,1.640625E-4;75,8.203125E-5;76,5.859375E-5;77,5.078125E-5;78,2.34375E-5;79,1.171875E-5;80,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "immersiveengineering:seed:0",
+				"fortunes": {
+					"0": 0.0409,
+					"1": 0.0382,
+					"2": 0.0424,
+					"3": 0.0396
+				}
+			},
+			{
+				"itemStack": "minecraft:wheat_seeds:0",
+				"fortunes": {
+					"0": 0.0861,
+					"1": 0.1714,
+					"2": 0.2579,
+					"3": 0.3309
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:chest:0",
+		"distrib": "0,0.0;13,0.0;14,1.5625E-5;15,1.5625E-5;16,0.0;17,7.8125E-6;18,0.0;19,3.90625E-6;20,0.0;22,0.0;23,1.171875E-5;24,0.0;31,0.0;32,7.8125E-6;33,0.0;34,1.171875E-5;35,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:chest:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:stone:5",
+		"distrib": "0,0.0;1,0.009753906;2,0.019335937;3,0.029160157;4,0.03796094;5,0.04870703;6,0.049652345;7,0.047453124;8,0.046910156;9,0.046484374;10,0.0475625;11,0.049433593;12,0.04967578;13,0.04785547;14,0.04690625;15,0.045308594;16,0.04344922;17,0.044558592;18,0.045285158;19,0.044703126;20,0.042691406;21,0.042976562;22,0.044421874;23,0.04665625;24,0.047109377;25,0.0471875;26,0.04721094;27,0.045144532;28,0.0435;29,0.042761717;30,0.0410625;31,0.03788672;32,0.035757814;33,0.035066407;34,0.034410156;35,0.032539062;36,0.03204297;37,0.032171875;38,0.03225;39,0.031828124;40,0.030105468;41,0.028578125;42,0.027992187;43,0.028644532;44,0.028347656;45,0.027796876;46,0.028871093;47,0.027996093;48,0.024066405;49,0.023910156;50,0.02411328;51,0.024328126;52,0.024230469;53,0.023476563;54,0.023097657;55,0.023375;56,0.022953125;57,0.021214845;58,0.020527344;59,0.019667968;60,0.0185625;61,0.016042968;62,0.015140625;63,0.015140625;64,0.009996094;65,0.009652344;66,0.008691406;67,0.007660156;68,0.0063320315;69,0.005707031;70,0.0050078123;71,0.0041953125;72,0.0040664063;73,0.003765625;74,0.0032265624;75,0.0028632812;76,0.0022851562;77,0.00171875;78,0.0011054687;79,5.859375E-4;80,1.8359374E-4;81,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:cobblestone:0",
+		"distrib": "0,0.0;12,0.0;13,1.25E-4;14,2.8515625E-4;15,3.7890626E-4;16,4.4921876E-4;17,5.3125E-4;18,4.53125E-4;19,3.2421874E-4;20,2.421875E-4;21,5.859375E-5;22,2.265625E-4;25,2.265625E-4;26,2.34375E-4;27,0.0;30,0.0;31,6.640625E-5;32,9.765625E-5;33,1.796875E-4;34,2.6953124E-4;35,2.578125E-4;36,1.8359374E-4;37,1.9140624E-4;38,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:tallgrass:1",
+		"distrib": "0,0.0;5,0.0;6,5.859375E-5;7,1.953125E-5;8,1.1328125E-4;9,3.359375E-4;10,3.4375E-4;11,3.9453126E-4;12,3.6328126E-4;13,2.1484375E-4;14,3.5546874E-4;15,4.7265625E-4;16,1.640625E-4;17,3.125E-4;18,1.484375E-4;19,2.6953124E-4;20,3.125E-4;21,3.4765626E-4;22,2.6171876E-4;23,2.3828125E-4;24,2.9296876E-4;25,3.4765626E-4;26,4.0625E-4;27,1.71875E-4;28,1.875E-4;29,8.984375E-5;30,8.984375E-5;31,2.34375E-4;32,4.6875E-5;33,1.171875E-5;34,1.5625E-5;35,3.125E-5;36,7.03125E-5;37,1.40625E-4;38,3.125E-5;39,8.59375E-5;40,5.46875E-5;41,1.5625E-5;42,2.734375E-5;43,1.953125E-5;44,1.953125E-5;45,7.8125E-6;46,0.0;48,0.0;49,1.171875E-5;50,0.0;51,0.0;52,7.8125E-6;53,1.171875E-5;54,0.0;59,0.0;60,1.953125E-5;61,2.734375E-5;62,2.1484375E-4;63,0.0040703127;64,2.421875E-4;65,8.203125E-5;66,1.640625E-4;67,2.5390624E-4;68,4.21875E-4;69,6.171875E-4;70,0.00115625;71,0.0011835938;72,0.0016601563;73,0.001125;74,0.0011992188;75,7.070312E-4;76,5.1171874E-4;77,5.3125E-4;78,6.484375E-4;79,4.375E-4;80,0.0;81,3.90625E-6;83,3.90625E-6;84,1.171875E-5;85,0.0;86,7.8125E-6;87,3.90625E-6;88,3.90625E-6;89,0.0;92,0.0;93,7.8125E-6;94,3.515625E-5;95,7.8125E-6;96,0.0;98,0.0;99,3.90625E-6;100,0.0;101,3.90625E-6;102,0.0;103,3.90625E-6;104,0.0;105,0.0;106,1.171875E-5;107,0.0;108,7.8125E-6;109,0.0;110,3.90625E-6;111,1.5625E-5;112,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "immersiveengineering:seed:0",
+				"fortunes": {
+					"0": 0.0407,
+					"1": 0.0404,
+					"2": 0.0441,
+					"3": 0.0412
+				}
+			},
+			{
+				"itemStack": "minecraft:wheat_seeds:0",
+				"fortunes": {
+					"0": 0.085,
+					"1": 0.1706,
+					"2": 0.2399,
+					"3": 0.301
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:stone:3",
+		"distrib": "0,0.0;1,0.009019531;2,0.017601563;3,0.02534375;4,0.033207033;5,0.04098828;6,0.040613282;7,0.04114844;8,0.040523436;9,0.040183593;10,0.040378906;11,0.040941406;12,0.041140623;13,0.04111328;14,0.04033594;15,0.040035155;16,0.040375;17,0.041375;18,0.042292967;19,0.04176953;20,0.040523436;21,0.03857422;22,0.038539063;23,0.03913672;24,0.0416875;25,0.043589845;26,0.04279297;27,0.0423125;28,0.042964842;29,0.043191407;30,0.041597657;31,0.03859375;32,0.035316408;33,0.033785157;34,0.034765624;35,0.034863282;36,0.03219922;37,0.030316407;38,0.029523438;39,0.029375;40,0.030847656;41,0.030210938;42,0.029730469;43,0.030652344;44,0.030421875;45,0.028757812;46,0.027859375;47,0.025480468;48,0.022203125;49,0.02221875;50,0.022152344;51,0.021441406;52,0.0209375;53,0.021492187;54,0.022933593;55,0.022148438;56,0.022175781;57,0.021804687;58,0.0206875;59,0.018992187;60,0.01754297;61,0.016664062;62,0.015765624;63,0.013511719;64,0.008023437;65,0.008152343;66,0.008339844;67,0.0084257815;68,0.0074921874;69,0.0062773437;70,0.005828125;71,0.0049375;72,0.00415625;73,0.0032695313;74,0.0020703124;75,0.0013085938;76,0.0010507812;77,8.59375E-4;78,5.546875E-4;79,1.8359374E-4;80,8.203125E-5;81,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:soggygarden:0",
+		"distrib": "0,0.0;62,0.0;63,3.90625E-6;64,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "harvestcraft:spiceleafitem:0",
+				"fortunes": {
+					"0": 0.2985,
+					"1": 0.3,
+					"2": 0.294,
+					"3": 0.294
+				}
+			},
+			{
+				"itemStack": "harvestcraft:cottonitem:0",
+				"fortunes": {
+					"0": 0.3015,
+					"1": 0.2965,
+					"2": 0.3024,
+					"3": 0.2978
+				}
+			},
+			{
+				"itemStack": "harvestcraft:cranberryitem:0",
+				"fortunes": {
+					"0": 0.3004,
+					"1": 0.3066,
+					"2": 0.2992,
+					"3": 0.3012
+				}
+			},
+			{
+				"itemStack": "harvestcraft:seaweeditem:0",
+				"fortunes": {
+					"0": 0.3093,
+					"1": 0.3001,
+					"2": 0.2932,
+					"3": 0.2973
+				}
+			},
+			{
+				"itemStack": "harvestcraft:waterchestnutitem:0",
+				"fortunes": {
+					"0": 0.2982,
+					"1": 0.298,
+					"2": 0.2974,
+					"3": 0.2995
+				}
+			},
+			{
+				"itemStack": "harvestcraft:okraitem:0",
+				"fortunes": {
+					"0": 0.301,
+					"1": 0.3086,
+					"2": 0.3053,
+					"3": 0.3082
+				}
+			},
+			{
+				"itemStack": "harvestcraft:blueberryitem:0",
+				"fortunes": {
+					"0": 0.3001,
+					"1": 0.2898,
+					"2": 0.3056,
+					"3": 0.3025
+				}
+			},
+			{
+				"itemStack": "harvestcraft:riceitem:0",
+				"fortunes": {
+					"0": 0.3076,
+					"1": 0.3027,
+					"2": 0.3032,
+					"3": 0.2979
+				}
+			},
+			{
+				"itemStack": "harvestcraft:brusselsproutitem:0",
+				"fortunes": {
+					"0": 0.2935,
+					"1": 0.2971,
+					"2": 0.3045,
+					"3": 0.2993
+				}
+			},
+			{
+				"itemStack": "harvestcraft:asparagusitem:0",
+				"fortunes": {
+					"0": 0.2899,
+					"1": 0.3006,
+					"2": 0.2952,
+					"3": 0.3023
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:logs.0:3",
+		"distrib": "0,0.0;62,0.0;63,3.90625E-6;64,0.0;65,0.0;66,3.90625E-6;67,7.8125E-6;68,3.90625E-6;69,1.5625E-5;70,1.171875E-5;71,1.171875E-5;72,2.734375E-5;73,1.5625E-5;74,1.5625E-5;75,7.8125E-6;76,3.90625E-6;78,3.90625E-6;79,3.125E-5;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pamspiderweb:0",
+		"distrib": "0,0.0;68,0.0;69,1.5625E-5;70,0.0;73,0.0;74,3.90625E-6;75,3.90625E-6;76,1.171875E-5;77,3.90625E-6;78,0.0;79,2.734375E-5;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:block_crystal_cluster_lapis:0",
+		"distrib": "0,0.0;10,0.0;11,3.90625E-6;12,0.0;18,0.0;19,7.8125E-6;20,3.90625E-6;21,0.0;22,3.90625E-6;23,3.90625E-6;24,7.8125E-6;25,3.90625E-6;26,3.90625E-6;27,7.8125E-6;28,0.0;32,0.0;33,3.90625E-6;34,0.0;35,0.0;36,7.8125E-6;37,0.0;38,0.0;39,3.90625E-6;40,0.0;47,0.0;48,3.90625E-6;49,0.0;50,3.90625E-6;51,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "actuallyadditions:item_crystal_shard:1",
+				"fortunes": {
+					"0": 4.0122,
+					"1": 4.0106,
+					"2": 3.9988,
+					"3": 4.0136
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:stone:0",
+		"distrib": "0,0.0;1,0.15143359;2,0.28964454;3,0.43232423;4,0.5734414;5,0.7118086;6,0.7050781;7,0.69734764;8,0.69855857;9,0.7032812;10,0.7033789;11,0.72685546;12,0.7239727;13,0.7239531;14,0.727793;15,0.729375;16,0.7284531;17,0.7234414;18,0.7197305;19,0.72057813;20,0.7220234;21,0.7250508;22,0.72095704;23,0.7132813;24,0.7083555;25,0.70789844;26,0.7086602;27,0.7148398;28,0.72084767;29,0.724543;30,0.6851953;31,0.6308125;32,0.59785545;33,0.58072263;34,0.57855856;35,0.5670547;36,0.5503828;37,0.53623825;38,0.5220625;39,0.5097031;40,0.50160545;41,0.4953125;42,0.49030468;43,0.48484766;44,0.4744258;45,0.4674219;46,0.4576133;47,0.43371484;48,0.3849531;49,0.38742968;50,0.38815233;51,0.3896875;52,0.39289063;53,0.38840234;54,0.38107422;55,0.37936717;56,0.37613672;57,0.3709961;58,0.35878906;59,0.33366016;60,0.30078906;61,0.27575782;62,0.25647655;63,0.24255078;64,0.14589062;65,0.14467968;66,0.13701563;67,0.124785155;68,0.109496094;69,0.09245703;70,0.077238284;71,0.06557422;72,0.055691406;73,0.046410155;74,0.040878907;75,0.035941407;76,0.031734373;77,0.028636718;78,0.02734375;79,0.026984375;80,0.021835938;81,0.021949219;82,0.021601563;83,0.02116797;84,0.020359375;85,0.019695312;86,0.019226562;87,0.018691406;88,0.01809375;89,0.017429687;90,0.016636718;91,0.01610547;92,0.015804688;93,0.015136719;94,0.013863281;95,0.012636718;96,0.0053671873;97,0.005324219;98,0.0053710938;99,0.0053203125;100,0.005183594;101,0.00503125;102,0.004691406;103,0.0042578126;104,0.0039140624;105,0.0034960937;106,0.0032304688;107,0.0029101563;108,0.0026757813;109,0.0023632813;110,0.0019296875;111,0.0015429688;112,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:cobblestone:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "forestry:leaves.decorative.0:11",
+		"distrib": "0,0.0;77,0.0;78,3.90625E-5;79,7.03125E-5;80,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "forestry:sapling:0:{IsAnalyzed:0b,Genome:{Chromosomes:[{UID1:\"forestry.treeLarch\",UID0:\"forestry.treeLarch\",Slot:0b},{UID1:\"forestry.heightAverage\",UID0:\"forestry.heightAverage\",Slot:1b},{UID1:\"forestry.saplingsLow\",UID0:\"forestry.saplingsLow\",Slot:2b},{UID1:\"forestry.fruitNone\",UID0:\"forestry.fruitNone\",Slot:3b},{UID1:\"forestry.yieldLowest\",UID0:\"forestry.yieldLowest\",Slot:4b},{UID1:\"forestry.sappinessLower\",UID0:\"forestry.sappinessLower\",Slot:5b},{UID1:\"forestry.leavesNone\",UID0:\"forestry.leavesNone\",Slot:6b},{UID1:\"forestry.maturationAverage\",UID0:\"forestry.maturationAverage\",Slot:7b},{UID1:\"forestry.i1d\",UID0:\"forestry.i1d\",Slot:8b},{UID1:\"forestry.fireproofFalse\",UID0:\"forestry.fireproofFalse\",Slot:9b}]}}",
+				"fortunes": {
+					"0": 0.0327,
+					"1": 0.0333,
+					"2": 0.0322,
+					"3": 0.0323
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:stone:1",
+		"distrib": "0,0.0;1,0.0085625;2,0.017976563;3,0.027367188;4,0.03561328;5,0.043921877;6,0.04438672;7,0.04414453;8,0.04448828;9,0.043394532;10,0.042367186;11,0.043253906;12,0.043265626;13,0.04423047;14,0.044921875;15,0.04448047;16,0.04416797;17,0.04378125;18,0.043550782;19,0.04402344;20,0.04505078;21,0.045265626;22,0.0438125;23,0.042191405;24,0.042191405;25,0.04449219;26,0.04703125;27,0.04622656;28,0.044953126;29,0.043566406;30,0.04125;31,0.037535157;32,0.034277342;33,0.033566408;34,0.034324218;35,0.034421876;36,0.033351563;37,0.03138672;38,0.030074218;39,0.029222656;40,0.028851563;41,0.029984375;42,0.030414062;43,0.029414063;44,0.028503906;45,0.026429687;46,0.02528125;47,0.024648437;48,0.02276172;49,0.024007812;50,0.023644531;51,0.022296876;52,0.022171875;53,0.02251953;54,0.023195313;55,0.024589844;56,0.024214843;57,0.023914063;58,0.024046876;59,0.02260547;60,0.019894531;61,0.01705078;62,0.016410157;63,0.015789062;64,0.009015625;65,0.008652343;66,0.0077617187;67,0.0066953124;68,0.005511719;69,0.004464844;70,0.0040195314;71,0.0036835938;72,0.0035039063;73,0.0030976562;74,0.002328125;75,0.0018867188;76,0.0017109375;77,0.0015664062;78,0.0011445313;79,4.8046876E-4;80,3.90625E-6;81,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:waterlily:0",
+		"distrib": "0,0.0;62,0.0;63,3.671875E-4;64,0.0;",
+		"silktouch": false,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:waterlily:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "actuallyadditions:block_treasure_chest:0",
+		"distrib": "0,0.0;29,0.0;30,3.90625E-6;31,7.8125E-6;32,0.0;36,0.0;37,3.90625E-6;39,3.90625E-6;40,0.0;44,0.0;45,3.90625E-6;46,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:redstone_ore:0",
+		"distrib": "0,0.0;1,0.0018671874;2,0.0037539063;3,0.0054179686;4,0.0073515624;5,0.009691406;6,0.009363282;7,0.009691406;8,0.009746093;9,0.00975;10,0.009828125;11,0.009859375;12,0.009128906;13,0.008472656;14,0.004691406;15,7.03125E-4;16,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:redstone:0",
+				"fortunes": {
+					"0": 4.4981,
+					"1": 5.0085,
+					"2": 5.4993,
+					"3": 6.0303
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_congealed:0",
+		"distrib": "0,0.0;131,0.0;132,3.90625E-6;133,0.0;140,0.0;141,3.90625E-6;143,3.90625E-6;144,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:dirt:0",
+		"distrib": "0,0.0;1,0.00340625;2,0.0067421873;3,0.010140625;4,0.013460938;5,0.016566407;6,0.01638672;7,0.017292969;8,0.017476562;9,0.017617188;10,0.016820313;11,0.016054688;12,0.016070312;13,0.015703125;14,0.015449218;15,0.015878906;16,0.015539062;17,0.014777344;18,0.014128907;19,0.013042969;20,0.013234375;21,0.01478125;22,0.015085937;23,0.01589453;24,0.0163125;25,0.01634375;26,0.015882812;27,0.0159375;28,0.015539062;29,0.015316406;30,0.015125;31,0.014914063;32,0.014261719;33,0.014402344;34,0.013574218;35,0.013246094;36,0.013035156;37,0.012863281;38,0.013332032;39,0.012757813;40,0.012945312;41,0.013324219;42,0.0128398435;43,0.011644531;44,0.010558594;45,0.010480469;46,0.010152344;47,0.010324218;48,0.010125;49,0.010097656;50,0.010167968;51,0.011085938;52,0.012496093;53,0.01534375;54,0.017378906;55,0.017378906;56,0.017152343;57,0.022589844;58,0.03676953;59,0.061089844;60,0.08055078;61,0.10451953;62,0.09485547;63,0.0770625;64,0.013328125;65,0.017078126;66,0.023671875;67,0.03396094;68,0.045546874;69,0.05398828;70,0.055988282;71,0.046953127;72,0.0386875;73,0.030320313;74,0.026539063;75,0.023730468;76,0.019964844;77,0.013292969;78,0.009171875;79,0.007105469;80,5.1171874E-4;81,7.265625E-4;82,7.8515627E-4;83,0.001046875;84,0.0016171875;85,0.0020234375;86,0.002078125;87,0.0020820312;88,0.0019609374;89,0.0017539063;90,0.0016640625;91,0.0015976563;92,0.0014882813;93,0.0015117187;94,0.0019414063;95,0.0024257812;96,5.390625E-4;97,6.796875E-4;98,5.8203127E-4;99,3.359375E-4;100,2.96875E-4;101,3.4375E-4;102,5.351562E-4;103,8.0859376E-4;104,0.0010039062;105,8.90625E-4;106,7.2265626E-4;107,6.210937E-4;108,4.765625E-4;109,3.046875E-4;110,1.71875E-4;111,1.3671875E-4;112,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_congealed:2",
+		"distrib": "0,0.0;136,0.0;137,1.953125E-5;138,2.34375E-5;139,1.328125E-4;140,8.984375E-5;141,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "minecraft:web:0",
+		"distrib": "0,0.0;13,0.0;14,1.171875E-5;15,1.171875E-5;16,1.5625E-5;17,3.515625E-5;18,7.8125E-6;19,1.09375E-4;20,3.046875E-4;21,3.203125E-4;22,1.71875E-4;23,1.6015625E-4;24,3.59375E-4;25,1.953125E-4;26,3.046875E-4;27,2.65625E-4;28,1.2109375E-4;29,1.171875E-4;30,6.25E-5;31,2.3046875E-4;32,1.5625E-4;33,1.4453125E-4;34,2.265625E-4;35,1.1328125E-4;36,4.6875E-5;37,7.421875E-5;38,6.640625E-5;39,6.640625E-5;40,1.25E-4;41,1.6015625E-4;42,4.6875E-5;43,6.25E-5;44,0.0;45,7.8125E-6;46,3.515625E-5;47,3.125E-5;48,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "minecraft:string:0",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pamwalnut:0",
+		"distrib": "0,0.0;75,0.0;76,3.90625E-6;77,1.5625E-5;78,7.8125E-6;79,1.5625E-5;80,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_dirt:2",
+		"distrib": "0,0.0;129,0.0;130,3.125E-5;131,1.328125E-4;132,3.125E-4;133,6.640625E-4;134,0.0010546875;135,0.0013554688;136,0.0016523438;137,0.0016328125;138,0.0015429688;139,0.0010039062;140,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_vine_purple_end:0",
+		"distrib": "0,0.0;124,0.0;125,3.90625E-6;126,0.0;127,1.5625E-5;128,7.8125E-6;129,3.90625E-6;130,2.34375E-5;131,7.8125E-6;132,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_grass:8",
+		"distrib": "0,0.0;138,0.0;139,1.9921875E-4;140,0.0010195313;141,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tconstruct:slime_dirt:2",
+				"fortunes": {
+					"0": 1.0,
+					"1": 1.0,
+					"2": 1.0,
+					"3": 1.0
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_vine_purple:0",
+		"distrib": "0,0.0;128,0.0;129,7.8125E-6;130,1.953125E-5;131,3.125E-5;132,3.515625E-5;133,1.953125E-5;134,3.515625E-5;135,2.34375E-5;136,3.90625E-6;137,0.0;138,3.90625E-6;139,7.8125E-6;140,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	},
+	{
+		"block": "tconstruct:slime_leaves:0",
+		"distrib": "0,0.0;133,0.0;134,2.34375E-5;135,3.90625E-6;136,0.0;141,0.0;142,1.5625E-5;143,3.90625E-6;144,0.0;",
+		"silktouch": true,
+		"dropsList": [
+			{
+				"itemStack": "tconstruct:slime_sapling:0",
+				"fortunes": {
+					"0": 0.0393,
+					"1": 0.0461,
+					"2": 0.0587,
+					"3": 0.1001
+				}
+			},
+			{
+				"itemStack": "minecraft:slime_ball:0",
+				"fortunes": {
+					"0": 0.0031,
+					"1": 0.003,
+					"2": 0.0049,
+					"3": 0.0061
+				}
+			},
+			{
+				"itemStack": "tconstruct:edible:1",
+				"fortunes": {
+					"0": 0.0023,
+					"1": 0.0012,
+					"2": 0.0027,
+					"3": 0.0027
+				}
+			}
+		],
+		"dim": "overworld"
+	},
+	{
+		"block": "harvestcraft:pamgooseberry:0",
+		"distrib": "0,0.0;70,0.0;71,2.34375E-5;72,0.0;73,1.5625E-5;74,0.0;75,0.0;76,2.734375E-5;77,3.90625E-6;78,1.171875E-5;79,0.0;",
+		"silktouch": false,
+		"dim": "overworld"
+	}
+]
