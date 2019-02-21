@@ -1,0 +1,540 @@
+----------α r1----------
+2018-06-02 12:00
+	initial release!
+		ActuallyAdditions-1.12.2-r135.jar
+		appliedenergistics2-rv5-stable-11.jar
+		Baubles-1.12-1.5.2.jar
+		bc-extra-pipes-1.12.2-1.jar
+		bc-ore-processing-7.99.15-1.jar
+		BiomesOPlenty-1.12.2-7.0.1.2384-universal.jar
+		buildcraft-7.99.17.jar
+		Chisel-MC1.12.2-0.2.0.31.jar
+		chiselsandbits-14.17.jar
+		CTM-MC1.12-0.2.3.12.jar
+		davincisvessels-1.12-6.340-full.jar
+		forestry_1.12.2-5.8.0.291.jar
+		Forgelin-1.6.0.jar
+		ImmersiveEngineering-0.12-82.jar
+		irontanks-2.1.0-beta.5.jar
+		iskalliumreactors-1.12.2-0.5.16.jar
+		megaloot-1.12.2-0.2.25.jar
+		movingworld-1.12-6.342-full.jar
+		OpenComputers-MC1.12.2-1.7.2.67.jar
+		OptiFine_1.12.2_HD_U_D3.jar
+		Railcraft_1.12.2-10.3.1-unofficial.jar
+		RoguelikeDungeons-1.12.2-1.8.0.jar
+		Thaumcraft-1.12.2-6.1.BETA15.jar
+		twilightforest-1.12.2-3.7.424-universal.jar
+		Valkyrien+Warfare+0.9_pre_3+[HotFix].jar
+
+----------α r2----------
+2018-06-02 19:45
+	add:
+		chat-bubbles 1.0.1.jar
+		TConstruct-1.12.2-2.10.1.84.jar
+		Mantle-1.12-1.3.2.24.jar
+		buildcraft-compat-7.99.14.jar
+		jeibees-0.9.0.5-mc1.12.2.jar
+		MagicBees-1.12.2-3.1.10.jar
+		ThaumicJEI-1.12.2-1.3.0-11.jar
+		StorageDrawers-1.12.2-5.3.6.jar
+		compactmachines3-1.12.2-3.0.12-b215.jar
+		BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar
+		worldedit-forge-mc1.12-6.1.8-dist.jar
+		CraftTweaker2-1.12-4.1.8.jar
+		Chameleon-1.12-4.1.3.jar
+	change:
+		Valkyrien+Warfare+0.9_pre_3+[HotFix].jar	---->	ValkyrienWarfareRevamped-1.12.2-v0.9_alpha-full+(1).jar
+		填入新的服务器IP
+		更新liteloader到最新版本
+	
+----------α r3----------
+2018-06-03 19:30
+	add:
+		animania-1.12.2-1.4.8.jar
+		CraftStudio-1.0.0.93-mc1.12-alpha.jar
+		Pam's+HarvestCraft+1.12.2u.jar
+		DynamicSurroundings-1.12.2-3.4.9.13.jar
+		Neat+1.4-15.jar
+		World-Tooltips-1.12.2-1.2.7-102.jar
+		QuickEasyMenu-1.12.2-1.1.0.jar
+		CustomNPCs_1.12.2(13may18).jar
+		SpiceOfLife-mc1.12-1.3.11.jar
+		FancyBlockParticles-1.12.x-2.4.0.jar
+		AppleSkin-mc1.12-1.0.9.jar
+		AppleCore-mc1.12.2-3.1.1.jar
+		BiblioCraft[v2.4.4][MC1.12.2].jar
+		ChinjufuMod[1.12.2]3.1.4.1.jar
+	remove:
+		buildcraft-compat-7.99.14.jar (加载序列问题)
+		liteloader
+		chat-bubbles 1.0.1.jar
+		Railcraft_1.12.2-10.3.1-unofficial.jar (导致内存溢出问题)
+		chiselsandbits-14.17.jar
+		davincisvessels-1.12-6.340-full.jar
+		movingworld-1.12-6.342-full.jar
+		ValkyrienWarfareRevamped-1.12.2-v0.9_alpha-full+(1).jar
+	change:
+		重新设置了小地图的默认设置
+		
+----------α r4----------
+2018-06-04 19:30
+	change:
+		新启动器 1.1.0 上线！
+		将启动器下载源更换为BMCLAPI2 解决玩家无法下载lib的问题
+		将更好的粒子快捷按键与背包整理错开
+		重置部分客户端按键
+		
+----------α r5----------
+2018-06-05 19:30
+	add:
+		refinedstorage-1.5.34.jar
+	remove:
+		worldedit-forge-mc1.12-6.1.8-dist.jar
+		Thaumcraft-1.12.2-6.1.BETA15.jar
+		twilightforest-1.12.2-3.7.424-universal.jar
+		[JEI]ThaumicJEI-1.12.2-1.3.0-11.jar
+		appliedenergistics2-rv5-stable-11.jar
+		MagicBees-1.12.2-3.1.10.jar
+		compactmachines3-1.12.2-3.0.12-b215.jar
+	change:
+		重置JEI默认搜索关键词 "@pam"
+		为启动器加入了自动更新启动器的功能(Bootstrapper)
+		将启动器下载源从时光之城（美国）更换到国内
+		
+----------α r6----------
+2018-06-07 18:00
+	add:
+		<未成功>mw-1.11.7.1_mc1.12.2.jar
+			(I spent an unacceptable amount of time making this...)
+		[JEI附加]jei_1.12.2-4.9.2.196.jar
+		[JEI附加]jepb-1.12-1.2.1.jar
+		[JEI附加]thebomplugin-1.12-0.2.3.jar
+		[JEI附加]jeivillagers-1.12-1.0.2.jar
+		[JEI附加]blockdrops-1.12.2-1.4.0.jar
+		[JEI附加]JustEnoughResources-1.12.2-0.8.5.27.jar
+		[JEI附加]tinkersjei-1.0.jar
+		[JEI附加]legiblenei-1.4.12.6.jar
+		[JEI附加]JEHC-1.12.2-1.5.1.0.jar
+		Quark-r1.4-123.jar
+		AutoRegLib-1.3-17.jar
+		LycanitesMobsComplete+1.20.3.0+[1.12.2].jar
+		GalacticraftCore-1.12.2-4.0.1.177.jar
+		Galacticraft-Planets-1.12.2-4.0.1.177.jar
+		MicdoodleCore-1.12.2-4.0.1.177.jar
+		MJRLegendsLib-1.12.2-1.1.4.jar
+		ExtraPlanets-1.12.2-0.3.8.jar
+	remove:
+		[地面物品显示]World-Tooltips-1.12.2-1.2.7-102.jar
+		ActuallyAdditions-1.12.2-r135.jar
+		ChinjufuMod[1.12.2]3.1.4.1.jar
+	change:
+		[物品管理]jei_1.12.2-4.8.5.132.ja -> [JEI]jei_1.12.2-4.9.2.196.jar
+		[高亮信息拓展]Hwyla-1.8.23-B38_1.12.jar -> [高亮信息拓展]Hwyla-1.8.26-B41_1.12.2.jar
+		[更好的FPS]BetterFps-1.1.1.jar -> [更好的FPS]BetterFps-1.4.8.jar
+		重置所有快捷键
+		将所有客户端Only模组设置为安装安装时可选
+		将默认显示调试和工具详细信息
+		启动器更新到1.2.0, 增加安装时选择模块功能
+		增加聊天气泡
+		取消玩家头顶的血条
+		调整脚印图形
+		
+----------α r7----------
+2018-06-07 18:00
+	add:
+		cfm-4.2.0-mc1.12.2.jar
+		placeableitems-3.3.jar
+	remove:
+		LycanitesMobsComplete+1.20.3.0+[1.12.2].jar
+	change:
+		重置FBP设置，解决卡顿问题
+		延长聊天气泡显示时长
+		
+----------α r8----------
+2018-06-10 18:00
+	add:
+		conarm-1.12.2-0.0.21-rc1.jar
+		plustic-6.5.2.0.jar
+		Botania+r1.10-354.jar
+		Thaumcraft-1.12.2-6.1.BETA16.jar
+		Deadly+Monsters+1.71.jar
+		InfernalMobs-1.12.2.jar
+		DrZharks MoCreatures Mod-12.0.4.jar
+	remove:
+		GalacticraftCore-1.12.2-4.0.1.177.jar
+		Galacticraft-Planets-1.12.2-4.0.1.177.jar
+		MicdoodleCore-1.12.2-4.0.1.177.jar
+		MJRLegendsLib-1.12.2-1.1.4.jar
+		ExtraPlanets-1.12.2-0.3.8.jar
+	change:
+		再次延长聊天气泡显示时长
+		将动态光源设置为默认开启
+		启动时光之城通行证系统
+		修改启动时的默认游戏分辨率
+		
+----------α r9----------
+2018-06-11 18:00
+	add:
+		TieredTooltips-2.0.0.jar
+		Bookshelf-1.12.2-2.3.544.jar
+		GameStages-1.12.2-2.0.91.jar
+		ItemStages-1.12.2-2.0.35.jar
+		MLib-3.0.5.jar
+		modtweaker-4.0.12.jar
+		MobStages-1.12.2-2.0.8.jar
+		multiblockstages-1.1.1.jar
+		OreStages-1.12.2-2.0.30.jar
+		RecipeStages-1.1.1.jar
+		Time+Stages-1.2.jar
+		TinkerStages-1.12.2-2.0.15.jar
+		WailaStages-1.12.2-2.0.23.jar
+		DimensionStages-1.12.2-2.0.20.jar
+		
+----------α r10----------
+2018-06-15 18:00
+	remove:
+		DrZharks MoCreatures Mod-12.0.4.jar
+		OpenComputers-MC1.12.2-1.7.2.67.jar
+		Forgelin-1.6.0.jar
+		bc-ore-processing-7.99.15-1.jar
+		bc-extra-pipes-1.12.2-1.jar
+	change:
+
+----------β r1----------
+2018-12-29 20:49
+	add:
+		railcraft-12.0.0-beta-2.jar
+	remove:
+		refinedstorage-1.5.34.jar
+		Botania+r1.10-354.jar
+	change:
+		已更新所有Mod至最新
+		
+----------β r2----------
+2019-01-04 00:00
+	add:
+		[B]mw-1.11.7.7_mc1.12.2.jar
+		[B]buildcraft-compat-7.99.15.jar
+		[C]Controlling-3.0.6.jar
+		[C]clearwater-1.2.jar
+		[C]TexFix+V-1.12-4.0.jar
+	change:
+		分类mod
+		修改键位
+		增加腾讯云广州BGP加速节点
+		默认开启音乐与显示字幕
+		添加光影包
+
+----------β r3----------
+2019-01-05 00:00
+	change:
+		修复安装与更新时的模块选择无法正在运作的问题
+		修复更新客户端会删除覆盖JourneyMap地图数据的问题
+
+----------β r4----------
+2019-01-07 16:34
+	add:
+		[C]liteloader-1.12.2-SNAPSHOT-release.jar
+		[C]mod_worldeditcui_1.12.1_01_lite_mc1.12.1.litemod
+	change:
+		禁用斗式挖掘机
+
+----------β r5----------
+2019-01-08 07:20
+	change:
+		[B]conarm-1.12.2-1.2.1.1.jar -> [B]conarm-1.12.2-1.2.2.jar
+		修复锻造DIY装甲不显示的问题
+		移除琥珀金配方
+		Waila不再显示实体信息, 防止阻挡精英怪信息
+		汉化精英怪信息
+		精英怪血量x5
+		
+----------β r6----------
+2019-01-08 22:05
+	remove:
+		[C]TexFix+V-1.12-4.0.jar
+		[C][JMAP]journeymap-1.12.2-5.5.3.jar
+	change:
+		彻底修复匠魂盔甲不显示问题
+		更换journeymap为Xaeros_Minimap
+
+----------β r7----------
+2019-01-09 08:10
+	add:
+		[C][BEF]Forgelin-1.8.2.jar
+		[C][BEF]BetterFoliage-MC1.12-2.2.0.jar
+	change:
+		更新DynamicSurroundings
+
+----------β r8----------
+2019-01-10 14:30
+	add:
+		[B]refinedstorage-1.6.12.jar
+	remove:
+		[B][Lib]Chameleon-1.12-4.1.3.jar
+		[B]StorageDrawers-1.12.2-5.3.8.jar
+	change:
+		更新Railcraft
+		更新JEI
+
+----------β r9----------
+2019-01-11 14:12
+	change:
+		内核汉化megaloot
+		史诗装备箱不再会出现在遗迹中
+		僵尸猪人不再掉落物品
+
+----------β r10----------
+2019-01-12 10:40
+	change:
+		进一步汉化megaloot
+		汉化RefinedStorage信息 (by Ro)
+
+----------β r11----------
+2019-01-13 07:03
+	add:
+		[B]Nutrition-1.12.2-4.0.0.jar
+		[B]ToughAsNails-1.12.2-3.1.0.139-universal.jar
+		[B]SereneSeasons-1.12.2-1.2.15-universal.jar
+		[B]Aquaculture-1.12.2-1.6.7.jar
+	remove:
+		[C]clearwater-1.2.jar
+	change:
+		汉化现代枪械
+		修改默认设置，优化FPS
+
+----------β r12----------
+2019-01-14 12:30
+	add:
+		[B]additionalpipes-6.0.0.8.jar
+		[B]RebornCore-1.12.2-3.13.1.402-universal.jar
+		[B]RebornStorage-1.12.2-3.3.2.79.jar
+		[B]refinedstorageaddons-0.4.3.jar
+	remove:
+		[B]Aquaculture-1.12.2-1.6.7.jar
+		[C][FBP]FancyBlockParticles-1.12.x-2.4.1.jar
+	change:
+		增加更多管道
+		增加RS无线合成终端
+		增加RS分子装配室
+		去除海产养殖
+		去除FBP，大幅提高帧数
+		完善影响体温的方块数据，并提升羊毛衣和火焰的保温效果
+		完善来自其他Mod的饮水效果数据
+		现在死亡不会再将低于30%的营养水平回复到30%
+		去除BuildCraft采石场
+		将林业物品合成难度提高到"难"，养蜂难度提高到"疯狂"
+		现在可以在下雨时仰头并空手潜行+右键直接喝雨水
+		现在可以直接通过空手潜行+右键从水方块里喝水
+		关闭洗碗机, 洗衣机的功能
+		现在不再能够使用打印机复印附魔书
+		现在不再能够从电脑上购买精准采集附魔书和骷髅头
+		现在只有OP能创建和编辑NPC
+		现在潘马斯出货箱不再收购任何物品
+		现在凋零在生成时将总是精英怪
+		将持枪暴徒和盖斯的生成率下调至0.1
+		现在NEAT生命条会显示其他玩家生命
+		区块加载器不再能够合成
+
+----------β r13----------
+2019-01-16 09:30
+	add:
+		[B]primitivemobs-1.2.3a-TimeCityCN1.jar
+	change:
+		增加更多敌对生物
+		
+----------β r14----------
+2019-01-21 17:00
+	remove:
+		[B]Thaumcraft-1.12.2-6.1.BETA26.jar
+	change:
+		因服务器内容策略调整, 去除神秘6
+		暂时关闭加速节点
+		
+----------β r15----------
+2019-01-22 09:30
+	add:
+		[B]millenaire-1.12.2-7.1.1.jar
+		[B]ClimaticBiomes-2.6.2-MC1.12.2.jar
+		[B]DynamicTrees-1.12.2-0.9.4.jar
+		[B]DynamicTreesPHC-1.12.2-1.4.2.jar
+		[B]DynamicTreesBOP-1.12.2-1.4.1e.jar
+		[B]ClimaticBiomes-DynamicTreesCompat-1.1.0-MC1.12.2.jar
+	change:
+		重启加速节点(从腾讯云转移到阿里云)
+		增加动态的树
+		增加千年村庄
+		
+----------β r16----------
+2019-01-22 17:46
+	add:
+		[B]Mekanism-1.12.2-9.4.13.349.jar
+		[B]sonarcore-1.12.2-5.0.19-20.jar
+		[B]MCMultiPart-2.5.3.jar
+		[B]practicallogistics2-1.12.2-3.0.8-11.jar
+		[B]TinkersComplement-1.12.2-0.2.3b.jar
+		[B]ImmersiveCables-1.12.2-1.3.2.jar
+		[B]immersivetech-1.12-1.3.10.jar
+	change:
+		增加通用机械
+		增加PracticalLogistics
+		
+----------β r17----------
+2019-01-22 19:00
+	remove:
+		[B]Mekanism-1.12.2-9.4.13.349.jar
+	change:
+		去除通用机械
+		
+----------β r18----------
+2019-01-27 14:00
+	remove:
+		[B]additionalpipes-6.0.0.8.jar
+		[B]BetterBuildersWands-1.12-0.12.0.251+d6c4d93.jar
+		[B]BiblioCraft[v2.4.5][MC1.12.2].jar
+		[B]CustomNPCs_1.12.2(26aug18).jar
+		[B]Deadly+Monsters+1.71.jar
+		[B]ImmersiveCables-1.12.2-1.3.2.jar
+		[B]immersivetech-1.12-1.3.10.jar
+		[B]irontanks-2.1.0-beta.5.jar
+		[B]iskalliumreactors-1.12.2-0.5.16.jar
+		[B]MCMultiPart-2.5.3.jar
+		[B]millenaire-1.12.2-7.1.1-o2072108706汉化.jar
+		[B]multimob-1.0.4.jar
+		[B]placeableitems-3.3.jar
+		[B]practicallogistics2-1.12.2-3.0.8-11.jar
+		[B]primitivemobs-1.2.3a-TimeCity汉化1.jar
+		[B]RebornCore-1.12.2-3.13.1.402-universal.jar
+		[B]RebornStorage-1.12.2-3.3.2.79.jar
+		[B]refinedstorageaddons-0.4.3.jar
+		[B]sonarcore-1.12.2-5.0.19-20.jar
+		[B]TinkersComplement-1.12.2-0.2.3b.jar
+		[B][CT]MobStages-1.12.2-2.0.8.jar
+		[B][CT]Time+Stages-1.2.jar
+		[B][CT]WailaStages-1.12.2-2.0.23.jar
+		[C]Controlling-3.0.6.jar
+		[C][DuraShow]Durability Show-1.12-5.0.0.jar
+		[C][JEI_A]blockdrops-1.12.2-1.4.0.jar
+		[C][JEI_A]jeivillagers-1.12-1.0.2.jar
+		[C][JEI_A]jepb-1.12-1.2.1.jar
+		[C][JEI_A]JustEnoughResources-1.12.2-0.8.10.50.jar
+		[C][JEI_A]legiblenei_1.12.2-1.6.12.7.jar
+	change:
+		性能大更新:删除30个冗余Mod, 4G内存也可以顺利进入游戏
+
+----------β r19----------
+2019-02-02 14:00
+	add:
+		[B]BetterBuildersWands-1.12-0.12.0.251+d6c4d93.jar
+		[C]foamfix-0.10.3-1.12.2.jar
+		[C]VanillaFix-1.0.10-99.jar
+		[C]MakeZoomZoom-0.0.4.jar
+		[C]Surge-1.12.2-2.0.76.jar
+	change:
+		OptiFine, BetterFPS不再是可选项
+		
+----------β r20----------
+2019-02-04 02:40
+	add:
+		[B]CyclopsCore-1.12.2-1.0.2.jar
+		[B]ColossalChests-1.12.2-1.7.0.jar
+	change:
+		增加巨大箱子Mod
+		
+----------β r21----------
+2019-02-04 18:10
+	remove:
+		animania-1.12.2-1.4.8.jar
+	change:
+		移除动物谷
+		
+----------β r22----------
+2019-02-06 08:44
+	change:
+		关闭体温系统
+		去除RS磁盘合成配方
+----------β r23----------
+2019-02-09 20:45
+	add:
+		[B]tinker_io-1.12.2-rw2.7.1.jar
+		[B][Lib][CoFHCore]RedstoneFlux-1.12-2.1.0.6-universal.jar
+		[B][Lib][ThermalFoundation]CoFHCore-1.12.2-4.6.2.25-universal.jar
+		[B][Lib][ThermalExpansion]CodeChickenLib-1.12.2-3.2.2.353-universal.jar
+		[B][Lib][ThermalFoundation]CoFHWorld-1.12.2-1.3.0.6-universal.jar
+		[B][Lib][ThermalExpansion]ThermalFoundation-1.12.2-2.6.2.26-universal.jar
+		[B]ThermalExpansion-1.12.2-5.5.3.41-universal.jar
+		[B]ThermalDynamics-1.12.2-2.5.4.18-universal.jar
+		[B]SolarFluxReborn_1.12.2-4.32r-TimeCity汉化2.jar
+		[B][Lib][UniDict]WanionLib-1.12.2-2.2.jar
+		[B]UniDict-1.12.2-2.9.2.jar
+	remove:
+		[B]ToughAsNails-1.12.2-3.1.0.140-universal.jar
+	change:
+		默认关闭切换主副手快捷键, 防止出现意外丢失枪械装备问题
+		升级所有Mod到最新版本
+		去除意志坚定
+		增加Tinker IO
+		增加热力膨胀, 热力动力
+		增加UniDict
+----------β r24----------
+2019-02-13 01:58
+	add:
+		[B]appliedenergistics2-rv6-stable-6.jar
+		[B]Mekanism-1.12.2-9.4.13.349.jar
+		[B]MekanismGenerators-1.12.2-9.4.13.349.jar
+		[B]MekanismTools-1.12.2-9.4.13.349.jar
+		[B]mekatweaker-1.12-1.1.2.jar
+	remove:
+		[B]refinedstorage-1.6.12-KoderX汉化.jar
+	change:
+		去除精致存储
+		增加应用动力2
+		增加通用机械
+		
+----------Δ r1----------
+2019-02-21 21:00
+	add:
+		[OTG]Biome_Bundle-1.12.2-v6.1-live.jar
+		[B]OpenTerrainGenerator-1.12.2+-+v6.jar
+		[C]SmoothFont-mc1.12.2-2.0-alpha-7.jar
+		[B]Pixelmon-1.12.2-7.0.1-universal.jar
+	remove:
+		[B]Mekanism-1.12.2-9.4.13.349.jar
+		[B]MekanismGenerators-1.12.2-9.4.13.349.jar
+		[B]MekanismTools-1.12.2-9.4.13.349.jar
+		[B]mekatweaker-1.12-1.1.2.jar
+		[B][CT]DimensionStages-1.12.2-2.0.23.jar
+		[B][CT]multiblockstages-1.1.1.jar
+		[B][CT]TieredTooltips-2.0.0.jar
+		[B][CT]TinkerStages-1.12.2-2.0.17.jar
+		[B][CT]tool-part-stage-0.3-alpha.jar
+		[B][Lib][megaloot]Baubles-1.12-1.5.2.jar
+		[B][Lib][TConstruct]Mantle-1.12-1.3.3.39.jar
+		[B]BetterBuildersWands-1.12.2-0.13.0.267+dc89c58.jar
+		[B]buildcraft-all-7.99.21.jar
+		[B]Chisel-MC1.12.2-0.2.1.35.jar
+		[B]ClimaticBiomes-DynamicTreesCompat-1.1.0-MC1.12.2.jar
+		[B]conarm-1.12.2-1.2.3.jar
+		[B]DynamicTrees-1.12.2-0.9.4.jar
+		[B]DynamicTreesBOP-1.12.2-1.4.1e.jar
+		[B]forestry_1.12.2-5.8.2.382.jar
+		[B]ImmersiveEngineering-0.12-88.jar
+		[B]InfernalMobs-1.12.2-TimeCity汉化1.jar
+		[B]megaloot-1.12.2-0.2.30-TimeCity汉化3.jar
+		[B]plustic-7.0.4.0.jar
+		[B]refinedstorage-1.6.12-KoderX汉化.jar
+		[B]SereneSeasons-1.12.2-1.2.15-universal.jar
+		[B]TConstruct-1.12.2-2.12.0.115.jar
+		[B]tinker_io-1.12.2-rw2.7.1.jar
+		[C][JEI_A]jeibees-0.9.0.5-mc1.12.2.jar
+		[C][JEI_A]thebomplugin-1.12-0.2.3.jar
+		[C][JEI_A]tinkersjei-1.0.jar
+		[C][Lib][Chisel]CTM-MC1.12.2-0.3.3.22.jar
+		[C][NEAT]Neat+1.4-17.jar
+		[C][Xae]XaerosWorldMap_1.3.3_Forge_1.12.jar
+	change:
+		去除大量Beta测试阶段Mod
+		进入Delta测试阶段
+		增加OTG与Pixelmon
+		增加圆滑字体
